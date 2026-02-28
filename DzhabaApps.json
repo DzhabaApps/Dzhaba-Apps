@@ -60,7 +60,6 @@
     },
     {
       "name": "HDrezka",
-      "size": 4600000,
       "bundleIdentifier": "me.keet.HDRezka",
       "marketplaceID": "",
       "developerName": "Example Developer",
@@ -83,10 +82,7 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для скачивания видео"
-        }
+        "privacy": {}
       },
       "patreon": {}
     }
