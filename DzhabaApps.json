@@ -8,10 +8,32 @@
   "tintColor": "#4185A9",
   "featuredApps": [
     "me.keet.HDRezka",
-    "net.whatsapp.WhatsApp1"
+    "net.whatsapp.WhatsApp1",
+    "com.je9ylzaryq.obbf98q5if"
   ],
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "apps": [
+    {
+      "name": "HDrezka",
+      "bundleIdentifier": "com.je9ylzaryq.obbf98q5if",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/CgZB4L3.png",
+      "tintColor": "#f43836",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для скачивания видео"
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
@@ -27,7 +49,6 @@
         {
           "version": "26.4.10",
           "date": "2026-02-28T14:59:00+03:00",
-          "size": 141200000,
           "localizedDescription": null,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa",
           "size": 141200000,
@@ -73,7 +94,7 @@
       "versions": [
         {
           "version": "1.5.3",
-          "date": "2026-02-28T10:33:00+03:00",
+          "date": "2026-02-28T07:33:00+03:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
           "size": 4600000,
