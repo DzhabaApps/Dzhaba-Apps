@@ -9,22 +9,32 @@
   "featuredApps": [
     "me.keet.HDRezka",
     "net.whatsapp.WhatsApp1",
-    "com.je9ylzaryq.obbf98q5if"
+    "com.txto0prazz.f033tiq2lq"
   ],
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "apps": [
     {
       "name": "HDrezka",
-      "bundleIdentifier": "com.je9ylzaryq.obbf98q5if",
+      "bundleIdentifier": "com.txto0prazz.f033tiq2lq",
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/CgZB4L3.png",
+      "iconURL": "https://i.imgur.com/KW9mxRm.png",
       "tintColor": "#f43836",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "version": "1.0",
+          "buildVersion": "",
+          "date": "2026-02-28T19:40:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
