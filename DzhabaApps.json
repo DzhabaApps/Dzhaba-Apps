@@ -25,12 +25,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa",
-          "size": 141200000,
           "version": "26.4.10",
-          "buildVersion": null,
           "date": "2026-02-28T20:59:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa",
+          "size": 141200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -72,11 +72,11 @@
       "versions": [
         {
           "version": "1.5.3",
-          "date": "2026-02-28T19:33:00+03:00",
+          "date": "2026-02-28T16:33:00+03:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
           "size": 4600000,
-          "buildVersion": null,
+          "buildVersion": "1.5.3",
           "minOSVersion": null
         }
       ],
