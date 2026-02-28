@@ -73,10 +73,10 @@
       "versions": [
         {
           "version": "1.5.3",
+          "size": 4600000,
           "date": "2026-02-28T10:33:00+03:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
           "buildVersion": "",
           "minOSVersion": null
         }
