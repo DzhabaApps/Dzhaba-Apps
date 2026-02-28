@@ -7,10 +7,42 @@
   "patreonURL": "",
   "tintColor": "#4185A9",
   "featuredApps": [
-    "com.example.myapp"
+    "com.example.myapp",
+    "me.keet.HDRezka"
   ],
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "apps": [
+    {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
+      "tintColor": "#f43836",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "version": "1.5.3",
+          "buildVersion": null,
+          "date": "2026-02-28T13:31:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для скачивания видео"
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "My Example App",
       "bundleIdentifier": "com.example.myapp",
