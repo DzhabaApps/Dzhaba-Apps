@@ -7,43 +7,11 @@
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#4185A9",
   "featuredApps": [
-    "me.keet.HDRezka",
     "net.whatsapp.WhatsApp1",
-    "com.txto0prazz.f033tiq2lq"
+    "me.keet.HDRezka"
   ],
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "apps": [
-    {
-      "name": "HDrezka",
-      "bundleIdentifier": "com.txto0prazz.f033tiq2lq",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/KW9mxRm.png",
-      "tintColor": "#f43836",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
-          "version": "1.0",
-          "buildVersion": "",
-          "date": "2026-02-28T19:40:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для скачивания видео"
-        }
-      },
-      "patreon": {}
-    },
     {
       "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
