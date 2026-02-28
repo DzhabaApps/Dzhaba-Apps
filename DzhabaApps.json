@@ -3,8 +3,8 @@
   "subtitle": "Скачивайте приложение",
   "description": "Добро пожаловать в наш репозиторий🤝",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-  "website": "",
-  "patreonURL": "",
+  "website": "https://example.com/",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#4185A9",
   "featuredApps": [
     "com.example.myapp",
@@ -26,12 +26,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
           "version": "1.5.3",
-          "buildVersion": null,
           "date": "2026-02-28T13:31:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
