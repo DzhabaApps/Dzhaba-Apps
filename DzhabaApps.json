@@ -14,6 +14,7 @@
   "apps": [
     {
       "name": "‎WhatsApp Plus",
+      "size": 141200,
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
       "marketplaceID": "",
       "developerName": "Example Developer",
