@@ -1,0 +1,46 @@
+{
+  "name": "DzhabaApps1",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "me.keet.HDRezka"
+  ],
+  "apps": [
+    {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/JqCu11P.png",
+      "tintColor": "#f43836",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "version": "1.5.3",
+          "buildVersion": null,
+          "date": "2026-02-28T22:48:00+03:00",
+          "localizedDescription": "Aaa",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для скачивания видео"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
