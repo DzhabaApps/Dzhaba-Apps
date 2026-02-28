@@ -3,8 +3,8 @@
   "subtitle": "Скачивайте приложение",
   "description": "Добро пожаловать в наш репозиторий🤝",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-  "website": "https://example.com",
-  "patreonURL": "https://patreon.com/altstudio",
+  "website": "",
+  "patreonURL": "",
   "tintColor": "#4185A9",
   "featuredApps": [
     "com.example.myapp",
