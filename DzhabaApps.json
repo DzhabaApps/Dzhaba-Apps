@@ -60,6 +60,7 @@
     },
     {
       "name": "HDrezka",
+      "size": 4600000,
       "bundleIdentifier": "me.keet.HDRezka",
       "marketplaceID": "",
       "developerName": "Example Developer",
