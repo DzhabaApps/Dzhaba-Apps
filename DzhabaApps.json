@@ -25,12 +25,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
           "version": "1.5.3",
-          "buildVersion": null,
           "date": "2026-02-28T19:33:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -91,79 +91,6 @@
           "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
           "NSCameraUsageDescription": "App uses camera to take photos.",
           "NSMicrophoneUsageDescription": "App uses microphone to record video."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Another Example App",
-      "bundleIdentifier": "com.example.anotherapp",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "Another awesome app.",
-      "localizedDescription": "This is another awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-      "tintColor": "#3660A2",
-      "category": "other",
-      "screenshots": {
-        "iphone": [
-          "https://example.com/anotherapp_portrait_1.png",
-          "https://example.com/anotherapp_portrait_2.png",
-          {
-            "imageURL": "https://example.com/anotherapp_landscape.png",
-            "width": 2556,
-            "height": 1179
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-            "width": 1668,
-            "height": 2388
-          },
-          {
-            "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-            "width": 2388,
-            "height": 1668
-          }
-        ]
-      },
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2022-06-21T09:00:00-08:00",
-          "localizedDescription": "Bug fixes and performance improvements.",
-          "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-          "size": 81514,
-          "buildVersion": null,
-          "minOSVersion": "13.0"
-        },
-        {
-          "version": "1.1",
-          "date": "2022-04-15T10:00:00-08:00",
-          "localizedDescription": "New features!",
-          "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-          "size": 81364,
-          "buildVersion": null,
-          "minOSVersion": "13.0"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-02-02T07:00:00-08:00",
-          "localizedDescription": "Initial release.",
-          "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-          "size": 79821,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.healthkit",
-          "com.apple.developer.game-center"
-        ],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
         }
       },
       "patreon": {}
