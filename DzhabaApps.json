@@ -2,7 +2,7 @@
   "name": "DzhabaApps",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/Logo/04601448-0514-4534-AC40-64B879D026E5.jpeg",
+  "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/Logo/1FC16E56-E4F6-4A58-A50E-3BF343E1115F.png",
   "website": "https://example.com",
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#4185A9",
@@ -11,7 +11,7 @@
     "net.whatsapp.WhatsApp1",
     "net.whatsapp.WhatsAppSMB1"
   ],
-  "headerURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/Logo/04601448-0514-4534-AC40-64B879D026E5.jpeg",
+  "headerURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/Logo/1FC16E56-E4F6-4A58-A50E-3BF343E1115F.png",
   "apps": [
     {
       "name": "‎WA Business Plus",
@@ -26,12 +26,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WaBussinesPlus/WA.Business.Plus_26.2.10_.ipa",
-          "size": 141500000,
           "version": "26.2.10",
-          "buildVersion": null,
           "date": "2026-03-01T18:55:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WaBussinesPlus/WA.Business.Plus_26.2.10_.ipa",
+          "size": 141500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
