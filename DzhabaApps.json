@@ -11,7 +11,6 @@
     "net.whatsapp.WhatsApp1",
     "net.whatsapp.WhatsAppSMB1"
   ],
-  "headerURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/Logo/1FC16E56-E4F6-4A58-A50E-3BF343E1115F.png",
   "apps": [
     {
       "name": "‎WA Business Plus",
@@ -113,7 +112,12 @@
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
       "tintColor": "#f43836",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9289.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9290.png?raw=true"
+      ],
       "versions": [
         {
           "version": "1.5.3",
