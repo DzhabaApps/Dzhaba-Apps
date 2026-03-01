@@ -159,7 +159,8 @@
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
       "tintColor": "#f43836",
       "category": "other",
-      "screenshotsURLs": {
+      "size": 4600000,
+      "screenshots": {
         "iphone": [
           "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
           "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
@@ -176,7 +177,13 @@
           "date": "2026-02-28T12:00:00+03:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
+          "screenshots": {
+        "iphone": [
+          "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
+          "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
+          "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9289.png?raw=true",
+          "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9290.png?raw=true"
+        ],
           "buildVersion": "",
           "minOSVersion": null
         }
