@@ -30,12 +30,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Instagram/Instagram.Regram.3.0.1.-.v426.ipa",
-          "size": 303400000,
           "version": "426.0.0",
-          "buildVersion": null,
           "date": "2026-05-13T09:33:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Instagram/Instagram.Regram.3.0.1.-.v426.ipa",
+          "size": 303400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -75,12 +75,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/SberBank/Online.sber.ipa",
-          "size": 276900000,
           "version": "16.13.0",
-          "buildVersion": null,
           "date": "2026-05-13T09:32:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/SberBank/Online.sber.ipa",
+          "size": 276900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -115,12 +115,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Picsart/Picsart_AI_Photo_Editor._Video_v29_9_1_Subscription.ipa",
-          "size": 112800000,
           "version": "29.9.1",
-          "buildVersion": null,
           "date": "2026-05-13T07:46:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Picsart/Picsart_AI_Photo_Editor._Video_v29_9_1_Subscription.ipa",
+          "size": 112800000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -156,12 +156,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa",
-          "size": 41900000,
           "version": "2024.08",
-          "buildVersion": null,
           "date": "2026-05-13T07:43:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa",
+          "size": 41900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -189,12 +189,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa",
-          "size": 121600000,
           "version": "8.0",
-          "buildVersion": null,
           "date": "2026-05-13T07:42:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa",
+          "size": 121600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -352,9 +352,9 @@
       "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Raduev",
+      "subtitle": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9267.jpeg",
       "tintColor": "#0494e4",
       "category": "other",
@@ -398,9 +398,9 @@
       "name": "HDrezka",
       "bundleIdentifier": "me.keet.HDRezka",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Raduev",
+      "subtitle": "",
+      "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
       "tintColor": "#f43836",
       "category": "other",
