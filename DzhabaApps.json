@@ -7,12 +7,53 @@
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#4185A9",
   "featuredApps": [
+    "app.teledark",
     "me.keet.HDRezka",
     "net.whatsapp.WhatsApp1",
     "net.whatsapp.WhatsAppSMB1",
     "net.whatsapp.Whatsapp"
   ],
   "apps": [
+    {
+      "name": "Teledark",
+      "bundleIdentifier": "app.teledark",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/teledark.jpeg?raw=true",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Teledark/Teledark.plus.ipa",
+          "size": 76700000,
+          "version": "12.6.2",
+          "buildVersion": null,
+          "date": "2026-05-13T07:29:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need this so that you can take and share photos and videos.",
+          "NSContactsUsageDescription": "Telegram stores your contacts heavily encrypted in the cloud to let you connect with your friends across all your devices.",
+          "NSFaceIDUsageDescription": "You can use Face ID to unlock the app.",
+          "NSLocationAlwaysUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map. You also need this to send locations from an Apple Watch.",
+          "NSLocationWhenInUseUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map.",
+          "NSMicrophoneUsageDescription": "We need this so that you can record and share voice messages and videos with sound.",
+          "NSMotionUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map.",
+          "NSPhotoLibraryAddUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSPhotoLibraryUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSSiriUsageDescription": "You can use Siri to send messages.",
+          "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "‎WhatsApp Gold",
       "bundleIdentifier": "net.whatsapp.Whatsapp",
