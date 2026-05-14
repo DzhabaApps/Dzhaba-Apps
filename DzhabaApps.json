@@ -18,12 +18,45 @@
   ],
   "apps": [
     {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Raduev",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
+      "tintColor": "#f43836",
+      "category": "other",
+      "screenshots": [
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9289.png?raw=true",
+        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9290.png?raw=true"
+      ],
+      "versions": [
+        {
+          "version": "1.5.3",
+          "date": "2026-02-28T12:00:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
+          "size": 4600000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Instagram Plus",
       "bundleIdentifier": "com.burbn.instagram",
       "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/instagram.webp?raw=true",
       "tintColor": "#920efc",
       "category": "other",
@@ -67,8 +100,8 @@
       "bundleIdentifier": "com.assetsonline.ios",
       "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/sberbank.png?raw=true",
       "tintColor": "#64cc64",
       "category": "other",
@@ -107,8 +140,8 @@
       "bundleIdentifier": "com.picsart.studio",
       "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Picsart.webp?raw=true",
       "tintColor": "#8740cc",
       "category": "other",
@@ -148,8 +181,8 @@
       "bundleIdentifier": "com.damtechdesigns.wa.story",
       "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/PureStatus.webp?raw=true",
       "tintColor": "#4185A9",
       "category": "other",
@@ -181,8 +214,8 @@
       "bundleIdentifier": "sh.weme.wemesh",
       "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/rave.jpeg?raw=true",
       "tintColor": "#7f7f7f",
       "category": "other",
@@ -223,8 +256,8 @@
       "bundleIdentifier": "app.teledark",
       "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/teledark.jpeg?raw=true",
       "tintColor": "#7f7f7f",
       "category": "other",
@@ -270,6 +303,15 @@
       "category": "other",
       "screenshots": [],
       "versions": [
+        {
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa",
+          "size": 134400000,
+          "version": "26.17.72",
+          "buildVersion": null,
+          "date": "2026-05-14T08:29:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
         {
           "version": "26.5.76",
           "date": "2026-03-01T19:36:00+03:00",
@@ -353,8 +395,8 @@
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
       "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9267.jpeg",
       "tintColor": "#0494e4",
       "category": "other",
@@ -391,39 +433,6 @@
           "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "HDrezka",
-      "bundleIdentifier": "me.keet.HDRezka",
-      "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
-      "tintColor": "#f43836",
-      "category": "other",
-      "screenshots": [
-        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
-        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
-        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9289.png?raw=true",
-        "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9290.png?raw=true"
-      ],
-      "versions": [
-        {
-          "version": "1.5.3",
-          "date": "2026-02-28T12:00:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
-          "buildVersion": "",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     }
