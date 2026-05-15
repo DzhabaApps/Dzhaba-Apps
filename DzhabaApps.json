@@ -21,9 +21,9 @@
       "name": "Teledark",
       "bundleIdentifier": "app.teledark",
       "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/teledark.jpeg?raw=true",
       "tintColor": "#7f7f7f",
       "category": "other",
@@ -61,9 +61,9 @@
       "name": "‎WhatsApp Gold",
       "bundleIdentifier": "net.whatsapp.Whatsapp",
       "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "125.8 MB",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Ava/IMG_9291.png?raw=true",
       "tintColor": "#fcec04",
       "category": "other",
@@ -116,9 +116,9 @@
       "name": "‎WA Business Plus",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB1",
       "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "141.5 Mb",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9268.jpeg",
       "tintColor": "#0494e4",
       "category": "other",
@@ -160,9 +160,9 @@
       "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
       "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9267.jpeg",
       "tintColor": "#0494e4",
       "category": "other",
@@ -206,21 +206,21 @@
       "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/Su18bWn.png",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/youtube.webp?raw=true",
       "tintColor": "#fc0434",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Youtube/YouTube.Plus.v21.11.4.ipa",
-          "size": 134500000,
           "version": "21.11.4",
-          "buildVersion": null,
           "date": "2026-05-15T19:26:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Youtube/YouTube.Plus.v21.11.4.ipa",
+          "size": 134500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -245,8 +245,8 @@
       "bundleIdentifier": "com.burbn.instagram",
       "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/instagram.webp?raw=true",
       "tintColor": "#920efc",
       "category": "other",
@@ -289,9 +289,9 @@
       "name": "HDrezka",
       "bundleIdentifier": "me.keet.HDRezka",
       "marketplaceID": "",
-      "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
       "tintColor": "#f43836",
       "category": "other",
@@ -315,260 +315,6 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Alight Motion Pro",
-      "bundleIdentifier": "com.alightcreative.motion",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/YEfkWG3.png",
-      "tintColor": "#5168ad",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Alightmotion/Alight.Motion.v6.2.50.ipa",
-          "size": 122900000,
-          "version": "6.2.50",
-          "buildVersion": null,
-          "date": "2026-05-15T19:48:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://tracking-bndspn.com",
-          "NSAppleMusicUsageDescription": "Alight Motion needs media access to import media",
-          "NSCameraUsageDescription": "Alight Motion needs camera access to import media",
-          "NSPhotoLibraryAddUsageDescription": "Alight Motion needs camera roll access to save photos and videos",
-          "NSPhotoLibraryUsageDescription": "Alight Motion needs photo access to import media",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Bazaart Pro",
-      "bundleIdentifier": "co.bazaart.app",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/A0XKLwc.png",
-      "tintColor": "#fc045c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Bazart/Bazaart.v26.1.4.ipa",
-          "size": 95300000,
-          "version": "26.1.4",
-          "buildVersion": null,
-          "date": "2026-05-15T19:45:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "This will allow you to take photos with Bazaart, so you can edit them in Bazaart.",
-          "NSLocationAlwaysUsageDescription": "Allows matching displayed content",
-          "NSLocationWhenInUseUsageDescription": "Allows matching displayed content",
-          "NSMicrophoneUsageDescription": "For dictation",
-          "NSPhotoLibraryAddUsageDescription": "This will allow you to save photos and videos to your camera roll.",
-          "NSPhotoLibraryUsageDescription": "This will allow you to access your photo albums and save photos to your camera roll.",
-          "NSSpeechRecognitionUsageDescription": "This will allow you to transcribe audio, so you can add auto-captions to your videos in Bazaart.",
-          "NSUserTrackingUsageDescription": "This will allow us to reach out to people like you with relevant ads on social and ad networks."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "DazzCamera",
-      "bundleIdentifier": "dazz.camera.vintagecamera",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/njxLHjM.png",
-      "tintColor": "#d0c80a",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/DazzCam/Dazz.Cam.v2.16.ipa",
-          "size": 115400000,
-          "version": "2.16",
-          "buildVersion": null,
-          "date": "2026-05-15T19:43:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "You can take photos and create wonderful effects with Dazz.",
-          "NSLocationWhenInUseUsageDescription": "This will save the location in the photo taken by Dazz.",
-          "NSMicrophoneUsageDescription": "You can record voice when you take video with Dazz.",
-          "NSPhotoLibraryAddUsageDescription": "To edit photos and videos in your library, allow access to your photos.",
-          "NSPhotoLibraryUsageDescription": "To edit photos and videos in your library, allow access to your photos."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "InstaShot",
-      "bundleIdentifier": "com.camerasideas.InstaShot",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/qKLmxcq.png",
-      "tintColor": "#fc245c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Inshot/InShot.v1.94.2.ipa",
-          "size": 130100000,
-          "version": "1.94.2",
-          "buildVersion": null,
-          "date": "2026-05-15T19:40:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "InShot requires access to the media library for adding music tracks to videos",
-          "NSCalendarsUsageDescription": "InShot requires to set calendar events ",
-          "NSCameraUsageDescription": "InShot requires the usage of Camera to capture photos and videos",
-          "NSLocationWhenInUseUsageDescription": "InShot uses location information to geotag photos and videos",
-          "NSMicrophoneUsageDescription": "InShot requries the usage of Microphone to capture video audio",
-          "NSPhotoLibraryAddUsageDescription": "InShot requires access to the photo library for saving photos and videos",
-          "NSPhotoLibraryUsageDescription": "InShot requires access to the photo library for editing and saving photos and videos",
-          "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PhotoRoom Pro",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/dNpzmxh.png",
-      "tintColor": "#343484",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Photoroom/Photoroom.2026.08.01.ipa",
-          "size": 132700000,
-          "version": "2026.08.01",
-          "buildVersion": null,
-          "date": "2026-05-15T19:38:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Capture & edit your photos ✅",
-          "NSMicrophoneUsageDescription": "Use your voice to send support messages",
-          "NSPhotoLibraryAddUsageDescription": "Save your edit in your Photos ✅",
-          "NSPhotoLibraryUsageDescription": "Use photos from your Photos Gallery ✅",
-          "NSUserTrackingUsageDescription": "Your activity will be used to offer you tailored designs and improve Photoroom video ads"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "VN Pro",
-      "bundleIdentifier": "com.frontrow.vlog",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/dFLOaUO.png",
-      "tintColor": "#4185A9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Vnvideo/VN.AI.Video.Editor.v2.3.0.ipa",
-          "size": 401000000,
-          "version": "2.3.0",
-          "buildVersion": null,
-          "date": "2026-05-15T19:35:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This allows you to edit your video with your own music.",
-          "NSCameraUsageDescription": "This allows you to record video.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Videos will be tagged with the location where they were taken.",
-          "NSLocationWhenInUseUsageDescription": "This allows you to share your location with your posts or videos.",
-          "NSMicrophoneUsageDescription": "This allows you to record your voice.",
-          "NSPhotoLibraryUsageDescription": "This allows you to share videos from your library and save videos to your camera roll.",
-          "NSSpeechRecognitionUsageDescription": "This allows you to recognize your voice.",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "VSCO Pro",
-      "bundleIdentifier": "co.visualsupply.cam",
-      "marketplaceID": "",
-      "developerName": "Raduev Dzhaba",
-      "subtitle": "",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/LIrdCSq.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/VSCO/VSCO.v459.1.0.ipa",
-          "size": 212300000,
-          "version": "459.1.0",
-          "buildVersion": null,
-          "date": "2026-05-15T19:30:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothPeripheralUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSCameraUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSContactsUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSLocationAlwaysUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSLocationUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSLocationWhenInUseUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSMicrophoneUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSPhotoLibraryUsageDescription": "Configure this in InfoPlist.strings (English)",
-          "NSUserTrackingUsageDescription": "Configure this in InfoPlist.strings (English)"
-        }
       },
       "patreon": {}
     },
@@ -608,6 +354,260 @@
           "NSPhotoLibraryAddUsageDescription": "To store photos in the gallery",
           "NSPhotoLibraryUsageDescription": "To download photos of receipts from the gallery",
           "NSSpeechRecognitionUsageDescription": "To perform voice search"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Alight Motion Pro",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/alighmotion.webp?raw=true",
+      "tintColor": "#5168ad",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "6.2.50",
+          "date": "2026-05-15T19:48:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Alightmotion/Alight.Motion.v6.2.50.ipa",
+          "size": 122900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://tracking-bndspn.com",
+          "NSAppleMusicUsageDescription": "Alight Motion needs media access to import media",
+          "NSCameraUsageDescription": "Alight Motion needs camera access to import media",
+          "NSPhotoLibraryAddUsageDescription": "Alight Motion needs camera roll access to save photos and videos",
+          "NSPhotoLibraryUsageDescription": "Alight Motion needs photo access to import media",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bazaart Pro",
+      "bundleIdentifier": "co.bazaart.app",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/bazart.webp?raw=true",
+      "tintColor": "#fc045c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "26.1.4",
+          "date": "2026-05-15T19:45:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Bazart/Bazaart.v26.1.4.ipa",
+          "size": 95300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "This will allow you to take photos with Bazaart, so you can edit them in Bazaart.",
+          "NSLocationAlwaysUsageDescription": "Allows matching displayed content",
+          "NSLocationWhenInUseUsageDescription": "Allows matching displayed content",
+          "NSMicrophoneUsageDescription": "For dictation",
+          "NSPhotoLibraryAddUsageDescription": "This will allow you to save photos and videos to your camera roll.",
+          "NSPhotoLibraryUsageDescription": "This will allow you to access your photo albums and save photos to your camera roll.",
+          "NSSpeechRecognitionUsageDescription": "This will allow you to transcribe audio, so you can add auto-captions to your videos in Bazaart.",
+          "NSUserTrackingUsageDescription": "This will allow us to reach out to people like you with relevant ads on social and ad networks."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DazzCamera Pro",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "marketplaceID": "",
+      "developerName": " Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/dazzcam.webp?raw=true",
+      "tintColor": "#d0c80a",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.16",
+          "date": "2026-05-15T19:43:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/DazzCam/Dazz.Cam.v2.16.ipa",
+          "size": 115400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "You can take photos and create wonderful effects with Dazz.",
+          "NSLocationWhenInUseUsageDescription": "This will save the location in the photo taken by Dazz.",
+          "NSMicrophoneUsageDescription": "You can record voice when you take video with Dazz.",
+          "NSPhotoLibraryAddUsageDescription": "To edit photos and videos in your library, allow access to your photos.",
+          "NSPhotoLibraryUsageDescription": "To edit photos and videos in your library, allow access to your photos."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "InstaShot Pro",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/inshot.webp?raw=true",
+      "tintColor": "#fc245c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.94.2",
+          "date": "2026-05-15T19:40:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Inshot/InShot.v1.94.2.ipa",
+          "size": 130100000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "InShot requires access to the media library for adding music tracks to videos",
+          "NSCalendarsUsageDescription": "InShot requires to set calendar events ",
+          "NSCameraUsageDescription": "InShot requires the usage of Camera to capture photos and videos",
+          "NSLocationWhenInUseUsageDescription": "InShot uses location information to geotag photos and videos",
+          "NSMicrophoneUsageDescription": "InShot requries the usage of Microphone to capture video audio",
+          "NSPhotoLibraryAddUsageDescription": "InShot requires access to the photo library for saving photos and videos",
+          "NSPhotoLibraryUsageDescription": "InShot requires access to the photo library for editing and saving photos and videos",
+          "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PhotoRoom Pro",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/photoroom.webp?raw=true",
+      "tintColor": "#343484",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2026.08.01",
+          "date": "2026-05-15T19:38:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Photoroom/Photoroom.2026.08.01.ipa",
+          "size": 132700000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Capture & edit your photos ✅",
+          "NSMicrophoneUsageDescription": "Use your voice to send support messages",
+          "NSPhotoLibraryAddUsageDescription": "Save your edit in your Photos ✅",
+          "NSPhotoLibraryUsageDescription": "Use photos from your Photos Gallery ✅",
+          "NSUserTrackingUsageDescription": "Your activity will be used to offer you tailored designs and improve Photoroom video ads"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "VN Pro",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/vn.webp?raw=true",
+      "tintColor": "#4185A9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.3.0",
+          "date": "2026-05-15T19:35:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Vnvideo/VN.AI.Video.Editor.v2.3.0.ipa",
+          "size": 401000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This allows you to edit your video with your own music.",
+          "NSCameraUsageDescription": "This allows you to record video.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Videos will be tagged with the location where they were taken.",
+          "NSLocationWhenInUseUsageDescription": "This allows you to share your location with your posts or videos.",
+          "NSMicrophoneUsageDescription": "This allows you to record your voice.",
+          "NSPhotoLibraryUsageDescription": "This allows you to share videos from your library and save videos to your camera roll.",
+          "NSSpeechRecognitionUsageDescription": "This allows you to recognize your voice.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "VSCO Pro",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "marketplaceID": "",
+      "developerName": "Dzhaba Apps",
+      "subtitle": " ",
+      "localizedDescription": " ",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/vsco%20pro.webp?raw=true",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "459.1.0",
+          "date": "2026-05-15T19:30:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/VSCO/VSCO.v459.1.0.ipa",
+          "size": 212300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSCameraUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSContactsUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSLocationAlwaysUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSLocationUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSLocationWhenInUseUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSMicrophoneUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSPhotoLibraryUsageDescription": "Configure this in InfoPlist.strings (English)",
+          "NSUserTrackingUsageDescription": "Configure this in InfoPlist.strings (English)"
         }
       },
       "patreon": {}
