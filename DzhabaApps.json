@@ -1,42 +1,21 @@
 {
   "name": "DzhabaApps",
-  "subtitle": "",
-  "description": "",
-  "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/Logo/D31DCFD4-DBFE-4A16-A81C-D2D34DF36CD0.png?raw=true",
-  "website": "https://example.com",
-  "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#4185A9",
-  "featuredApps": [
-    "app.teledark",
-    "me.keet.HDRezka",
-    "net.whatsapp.WhatsApp1",
-    "net.whatsapp.WhatsAppSMB1",
-    "net.whatsapp.Whatsapp",
-    "com.picsart.studio",
-    "com.damtechdesigns.wa.story",
-    "sh.weme.wemesh"
-  ],
+  "identifier": "com.dzhaba.apps.repo",
   "apps": [
     {
       "name": "Teledark",
       "bundleIdentifier": "app.teledark",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/teledark.jpeg?raw=true",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "7f7f7f",
       "versions": [
         {
           "version": "12.6.2",
-          "date": "2026-05-13T07:29:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Teledark/Teledark.plus.ipa",
+          "date": "2026-05-13T04:29:00Z",
           "size": 76700000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Teledark/Teledark.plus.ipa"
         }
       ],
       "appPermissions": {
@@ -55,37 +34,32 @@
           "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "12.6.2",
+      "versionDate": "2026-05-13T04:29:00Z",
+      "size": 76700000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Teledark/Teledark.plus.ipa"
     },
     {
       "name": "‎WhatsApp Gold",
       "bundleIdentifier": "net.whatsapp.Whatsapp",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Ava/IMG_9291.png?raw=true",
-      "tintColor": "#fcec04",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "fcec04",
       "versions": [
         {
           "version": "26.17.72",
-          "date": "2026-05-14T08:29:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa",
+          "date": "2026-05-14T05:29:00Z",
           "size": 134400000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa"
         },
         {
           "version": "26.5.76",
-          "date": "2026-03-01T19:36:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WhatsApp.Gold_26.5.76_.ipa",
+          "date": "2026-03-01T16:36:00Z",
           "size": 125800000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WhatsApp.Gold_26.5.76_.ipa"
         }
       ],
       "appPermissions": {
@@ -110,28 +84,26 @@
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "26.17.72",
+      "versionDate": "2026-05-14T05:29:00Z",
+      "size": 134400000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa"
     },
     {
       "name": "‎WA Business Plus",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB1",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9268.jpeg",
-      "tintColor": "#0494e4",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "0494e4",
       "versions": [
         {
           "version": "26.2.10",
-          "date": "2026-03-01T18:55:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WaBussinesPlus/WA.Business.Plus_26.2.10_.ipa",
+          "date": "2026-03-01T15:55:00Z",
           "size": 141500000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WaBussinesPlus/WA.Business.Plus_26.2.10_.ipa"
         }
       ],
       "appPermissions": {
@@ -154,28 +126,26 @@
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "26.2.10",
+      "versionDate": "2026-03-01T15:55:00Z",
+      "size": 141500000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WaBussinesPlus/WA.Business.Plus_26.2.10_.ipa"
     },
     {
       "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp1",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/IMG_9267.jpeg",
-      "tintColor": "#0494e4",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "0494e4",
       "versions": [
         {
           "version": "26.4.10",
-          "date": "2026-02-28T14:59:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa",
+          "date": "2026-02-28T11:59:00Z",
           "size": 141200000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa"
         }
       ],
       "appPermissions": {
@@ -200,28 +170,26 @@
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "26.4.10",
+      "versionDate": "2026-02-28T11:59:00Z",
+      "size": 141200000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Programmy/WhatsApp.Plus_26.4.10.ipa"
     },
     {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/youtube.webp?raw=true",
-      "tintColor": "#fc0434",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "fc0434",
       "versions": [
         {
           "version": "21.11.4",
-          "date": "2026-05-15T19:26:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Youtube/YouTube.Plus.v21.11.4.ipa",
+          "date": "2026-05-15T16:26:00Z",
           "size": 134500000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Youtube/YouTube.Plus.v21.11.4.ipa"
         }
       ],
       "appPermissions": {
@@ -238,28 +206,26 @@
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "21.11.4",
+      "versionDate": "2026-05-15T16:26:00Z",
+      "size": 134500000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Youtube/YouTube.Plus.v21.11.4.ipa"
     },
     {
       "name": "Instagram Plus",
       "bundleIdentifier": "com.burbn.instagram",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/instagram.webp?raw=true",
-      "tintColor": "#920efc",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "920efc",
       "versions": [
         {
           "version": "426.0.0",
-          "date": "2026-05-13T09:33:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Instagram/Instagram.Regram.3.0.1.-.v426.ipa",
+          "date": "2026-05-13T06:33:00Z",
           "size": 303400000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Instagram/Instagram.Regram.3.0.1.-.v426.ipa"
         }
       ],
       "appPermissions": {
@@ -283,61 +249,60 @@
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "426.0.0",
+      "versionDate": "2026-05-13T06:33:00Z",
+      "size": 303400000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Instagram/Instagram.Regram.3.0.1.-.v426.ipa"
     },
     {
       "name": "HDrezka",
       "bundleIdentifier": "me.keet.HDRezka",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/refs/heads/main/icons/scale_1200.jfif",
-      "tintColor": "#f43836",
-      "category": "other",
-      "screenshots": [
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "f43836",
+      "versions": [
+        {
+          "version": "1.5.4",
+          "date": "2026-06-15T16:45:00Z",
+          "size": 5109566,
+          "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-me.keet.hdrezka-1.5.4-20260615164540-dc72aa35/HDrezka-1.5.4.ipa"
+        },
+        {
+          "version": "1.5.3",
+          "date": "2026-02-28T09:00:00Z",
+          "size": 4600000,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
         "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9287.png?raw=true",
         "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9288.png?raw=true",
         "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9289.png?raw=true",
         "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Hdrezka/IMG_9290.png?raw=true"
       ],
-      "versions": [
-        {
-          "version": "1.5.3",
-          "date": "2026-02-28T12:00:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa",
-          "size": 4600000,
-          "buildVersion": "",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "version": "1.5.4",
+      "versionDate": "2026-06-15T16:45:00Z",
+      "size": 5109566,
+      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-me.keet.hdrezka-1.5.4-20260615164540-dc72aa35/HDrezka-1.5.4.ipa"
     },
     {
       "name": "Онлайн СберБанк",
       "bundleIdentifier": "com.assetsonline.ios",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/sberbank.png?raw=true",
-      "tintColor": "#64cc64",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "An awesome app.",
+      "tintColor": "64cc64",
       "versions": [
         {
           "version": "16.13.0",
-          "date": "2026-05-13T09:32:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/SberBank/Online.sber.ipa",
+          "date": "2026-05-13T06:32:00Z",
           "size": 276900000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/SberBank/Online.sber.ipa"
         }
       ],
       "appPermissions": {
@@ -356,28 +321,26 @@
           "NSSpeechRecognitionUsageDescription": "To perform voice search"
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "16.13.0",
+      "versionDate": "2026-05-13T06:32:00Z",
+      "size": 276900000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/SberBank/Online.sber.ipa"
     },
     {
       "name": "Alight Motion Pro",
       "bundleIdentifier": "com.alightcreative.motion",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/alighmotion.webp?raw=true",
-      "tintColor": "#5168ad",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "5168ad",
       "versions": [
         {
           "version": "6.2.50",
-          "date": "2026-05-15T19:48:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Alightmotion/Alight.Motion.v6.2.50.ipa",
+          "date": "2026-05-15T16:48:00Z",
           "size": 122900000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Alightmotion/Alight.Motion.v6.2.50.ipa"
         }
       ],
       "appPermissions": {
@@ -391,28 +354,26 @@
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "6.2.50",
+      "versionDate": "2026-05-15T16:48:00Z",
+      "size": 122900000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Alightmotion/Alight.Motion.v6.2.50.ipa"
     },
     {
       "name": "Bazaart Pro",
       "bundleIdentifier": "co.bazaart.app",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/bazart.webp?raw=true",
-      "tintColor": "#fc045c",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "fc045c",
       "versions": [
         {
           "version": "26.1.4",
-          "date": "2026-05-15T19:45:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Bazart/Bazaart.v26.1.4.ipa",
+          "date": "2026-05-15T16:45:00Z",
           "size": 95300000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Bazart/Bazaart.v26.1.4.ipa"
         }
       ],
       "appPermissions": {
@@ -429,28 +390,26 @@
           "NSUserTrackingUsageDescription": "This will allow us to reach out to people like you with relevant ads on social and ad networks."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "26.1.4",
+      "versionDate": "2026-05-15T16:45:00Z",
+      "size": 95300000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Bazart/Bazaart.v26.1.4.ipa"
     },
     {
       "name": "DazzCamera Pro",
       "bundleIdentifier": "dazz.camera.vintagecamera",
-      "marketplaceID": "",
-      "developerName": " Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
+      "developerName": "Dzhaba Apps",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/dazzcam.webp?raw=true",
-      "tintColor": "#d0c80a",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "d0c80a",
       "versions": [
         {
           "version": "2.16",
-          "date": "2026-05-15T19:43:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/DazzCam/Dazz.Cam.v2.16.ipa",
+          "date": "2026-05-15T16:43:00Z",
           "size": 115400000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/DazzCam/Dazz.Cam.v2.16.ipa"
         }
       ],
       "appPermissions": {
@@ -463,28 +422,26 @@
           "NSPhotoLibraryUsageDescription": "To edit photos and videos in your library, allow access to your photos."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "2.16",
+      "versionDate": "2026-05-15T16:43:00Z",
+      "size": 115400000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/DazzCam/Dazz.Cam.v2.16.ipa"
     },
     {
       "name": "InstaShot Pro",
       "bundleIdentifier": "com.camerasideas.InstaShot",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/inshot.webp?raw=true",
-      "tintColor": "#fc245c",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "fc245c",
       "versions": [
         {
           "version": "1.94.2",
-          "date": "2026-05-15T19:40:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Inshot/InShot.v1.94.2.ipa",
+          "date": "2026-05-15T16:40:00Z",
           "size": 130100000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Inshot/InShot.v1.94.2.ipa"
         }
       ],
       "appPermissions": {
@@ -500,28 +457,26 @@
           "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "1.94.2",
+      "versionDate": "2026-05-15T16:40:00Z",
+      "size": 130100000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Inshot/InShot.v1.94.2.ipa"
     },
     {
       "name": "PhotoRoom Pro",
       "bundleIdentifier": "com.dr1ven.eraser",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/photoroom.webp?raw=true",
-      "tintColor": "#343484",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "343484",
       "versions": [
         {
           "version": "2026.08.01",
-          "date": "2026-05-15T19:38:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Photoroom/Photoroom.2026.08.01.ipa",
+          "date": "2026-05-15T16:38:00Z",
           "size": 132700000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Photoroom/Photoroom.2026.08.01.ipa"
         }
       ],
       "appPermissions": {
@@ -534,28 +489,26 @@
           "NSUserTrackingUsageDescription": "Your activity will be used to offer you tailored designs and improve Photoroom video ads"
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "2026.08.01",
+      "versionDate": "2026-05-15T16:38:00Z",
+      "size": 132700000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Photoroom/Photoroom.2026.08.01.ipa"
     },
     {
       "name": "VN Pro",
       "bundleIdentifier": "com.frontrow.vlog",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/vn.webp?raw=true",
-      "tintColor": "#4185A9",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "4185a9",
       "versions": [
         {
           "version": "2.3.0",
-          "date": "2026-05-15T19:35:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Vnvideo/VN.AI.Video.Editor.v2.3.0.ipa",
+          "date": "2026-05-15T16:35:00Z",
           "size": 401000000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Vnvideo/VN.AI.Video.Editor.v2.3.0.ipa"
         }
       ],
       "appPermissions": {
@@ -571,28 +524,26 @@
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "2.3.0",
+      "versionDate": "2026-05-15T16:35:00Z",
+      "size": 401000000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Vnvideo/VN.AI.Video.Editor.v2.3.0.ipa"
     },
     {
       "name": "VSCO Pro",
       "bundleIdentifier": "co.visualsupply.cam",
-      "marketplaceID": "",
       "developerName": "Dzhaba Apps",
-      "subtitle": " ",
-      "localizedDescription": " ",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/vsco%20pro.webp?raw=true",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "",
+      "subtitle": "",
+      "tintColor": "7f7f7f",
       "versions": [
         {
           "version": "459.1.0",
-          "date": "2026-05-15T19:30:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/VSCO/VSCO.v459.1.0.ipa",
+          "date": "2026-05-15T16:30:00Z",
           "size": 212300000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/VSCO/VSCO.v459.1.0.ipa"
         }
       ],
       "appPermissions": {
@@ -610,28 +561,26 @@
           "NSUserTrackingUsageDescription": "Configure this in InfoPlist.strings (English)"
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "459.1.0",
+      "versionDate": "2026-05-15T16:30:00Z",
+      "size": 212300000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/VSCO/VSCO.v459.1.0.ipa"
     },
     {
       "name": "Picsart Pro",
       "bundleIdentifier": "com.picsart.studio",
-      "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Picsart.webp?raw=true",
-      "tintColor": "#8740cc",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "An awesome app.",
+      "tintColor": "8740cc",
       "versions": [
         {
           "version": "29.9.1",
-          "date": "2026-05-13T07:46:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Picsart/Picsart_AI_Photo_Editor._Video_v29_9_1_Subscription.ipa",
+          "date": "2026-05-13T04:46:00Z",
           "size": 112800000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Picsart/Picsart_AI_Photo_Editor._Video_v29_9_1_Subscription.ipa"
         }
       ],
       "appPermissions": {
@@ -651,28 +600,26 @@
           "NSCalendarsUsageDescription": "We would like access to the calendar so we can serve you more relevant content."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "29.9.1",
+      "versionDate": "2026-05-13T04:46:00Z",
+      "size": 112800000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Picsart/Picsart_AI_Photo_Editor._Video_v29_9_1_Subscription.ipa"
     },
     {
       "name": "PureStatus Pro",
       "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/PureStatus.webp?raw=true",
-      "tintColor": "#4185A9",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "An awesome app.",
+      "tintColor": "4185a9",
       "versions": [
         {
           "version": "2024.08",
-          "date": "2026-05-13T07:43:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa",
+          "date": "2026-05-13T04:43:00Z",
           "size": 41900000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa"
         }
       ],
       "appPermissions": {
@@ -684,28 +631,26 @@
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "2024.08",
+      "versionDate": "2026-05-13T04:43:00Z",
+      "size": 41900000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa"
     },
     {
       "name": "Rave",
       "bundleIdentifier": "sh.weme.wemesh",
-      "marketplaceID": "",
       "developerName": "Dzhaba Raduev",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/rave.jpeg?raw=true",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "An awesome app.",
+      "tintColor": "7f7f7f",
       "versions": [
         {
           "version": "8.0",
-          "date": "2026-05-13T07:42:00+03:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa",
+          "date": "2026-05-13T04:42:00Z",
           "size": 121600000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa"
         }
       ],
       "appPermissions": {
@@ -726,8 +671,26 @@
           "NSUserTrackingUsageDescription": "Please enable personalized ads, which will support Rave and show you more local ads."
         }
       },
-      "patreon": {}
+      "screenshotURLs": [],
+      "version": "8.0",
+      "versionDate": "2026-05-13T04:42:00Z",
+      "size": 121600000,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa"
     }
   ],
-  "news": []
+  "news": [],
+  "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/Logo/D31DCFD4-DBFE-4A16-A81C-D2D34DF36CD0.png?raw=true",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "4185a9",
+  "featuredApps": [
+    "app.teledark",
+    "me.keet.HDRezka",
+    "net.whatsapp.WhatsApp1",
+    "net.whatsapp.WhatsAppSMB1",
+    "net.whatsapp.Whatsapp",
+    "com.picsart.studio",
+    "com.damtechdesigns.wa.story",
+    "sh.weme.wemesh"
+  ]
 }
