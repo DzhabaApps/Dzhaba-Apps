@@ -678,9 +678,20 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa"
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "title": "Обновления",
+      "identifier": "1",
+      "caption": "Привет",
+      "tintColor": "848ef9",
+      "date": "2026-07-04",
+      "notify": false,
+      "imageURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/1-d2389af711.jpg"
+    }
+  ],
   "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/Logo/D31DCFD4-DBFE-4A16-A81C-D2D34DF36CD0.png?raw=true",
   "website": "https://example.com",
+  "subtitle": "Источник IPA приложений",
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "4185a9",
   "featuredApps": [
