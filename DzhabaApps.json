@@ -3,6 +3,29 @@
   "identifier": "com.dzhaba.apps.repo",
   "apps": [
     {
+      "name": "‎WhatsApp Gold",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/net.whatsapp.WhatsApp-26.26.10.png",
+      "localizedDescription": "WhatsApp Gold\r\n\r\nОсобенности:\r\n📞 Запись звонков.\r\n📌 Закрепление неограниченного количества чатов.\r\n🚪 Возможность выхода из аккаунта.\r\n🧹 Очистка, исправление проблем с отправкой.\r\n👻 Улучшения в режиме призрака.\r\n📢 Выделение групповых сообщений.\r\n✅ Множество исправлений\r\n🔄 Совместимость с последней версией WhatsApp.",
+      "subtitle": "‎WhatsApp",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "26.26.10",
+          "date": "2026-07-05T09:13:00Z",
+          "size": 140827121,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.26.10-20260705091343-bb038ac7/WhatsApp-26.26.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "26.26.10",
+      "versionDate": "2026-07-05T09:13:00Z",
+      "size": 140827121,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.26.10-20260705091343-bb038ac7/WhatsApp-26.26.10.ipa"
+    },
+    {
       "name": "Teledark",
       "bundleIdentifier": "app.teledark",
       "developerName": "Dzhaba Apps",
@@ -39,56 +62,6 @@
       "versionDate": "2026-05-13T04:29:00Z",
       "size": 76700000,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Teledark/Teledark.plus.ipa"
-    },
-    {
-      "name": "‎WhatsApp Gold",
-      "bundleIdentifier": "net.whatsapp.Whatsapp",
-      "developerName": "Dzhaba Apps",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/Ava/IMG_9291.png?raw=true",
-      "localizedDescription": "",
-      "subtitle": "",
-      "tintColor": "fcec04",
-      "versions": [
-        {
-          "version": "26.17.72",
-          "date": "2026-05-14T05:29:00Z",
-          "size": 134400000,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa"
-        },
-        {
-          "version": "26.5.76",
-          "date": "2026-03-01T16:36:00Z",
-          "size": 125800000,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WhatsApp.Gold_26.5.76_.ipa"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
-          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
-          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
-          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places in chats.",
-          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
-          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
-          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library.",
-          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
-          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
-          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
-        }
-      },
-      "screenshotURLs": [],
-      "version": "26.17.72",
-      "versionDate": "2026-05-14T05:29:00Z",
-      "size": 134400000,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/WhatsappaGold/WGold_2.0.ipa"
     },
     {
       "name": "‎WA Business Plus",
@@ -611,10 +584,16 @@
       "bundleIdentifier": "com.damtechdesigns.wa.story",
       "developerName": "Dzhaba Raduev",
       "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/icons/PureStatus.webp?raw=true",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "Pure Status premium - чистые статусы Ватсап\r\n\r\nВ новой версии\r\n\r\nТеперь минутное видео можно в качестве 1080 получить полностью\r\nТакже теперь доступны фотографии чистые \r\nТакже теперь видео можно редактировать перед обработкой",
       "subtitle": "An awesome app.",
       "tintColor": "4185a9",
       "versions": [
+        {
+          "version": "2026.01",
+          "date": "2026-06-15T16:43:00Z",
+          "size": 60438618,
+          "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-com.damtechdesigns.wa.story-2026.01-20260615164348-b121a2bc/PureStatus-2026.01.ipa"
+        },
         {
           "version": "2024.08",
           "date": "2026-05-13T04:43:00Z",
@@ -622,20 +601,12 @@
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSCameraUsageDescription": "Not Using Camera But Codec Library Supports Camera if Required",
-          "NSPhotoLibraryAddUsageDescription": "Permission to Access your Gallery to save Compressed Videos to the Gallery. ",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
-        }
-      },
+      "appPermissions": {},
       "screenshotURLs": [],
-      "version": "2024.08",
-      "versionDate": "2026-05-13T04:43:00Z",
-      "size": 41900000,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Purestatus/PureStatus.Premium.ipa"
+      "version": "2026.01",
+      "versionDate": "2026-06-15T16:43:00Z",
+      "size": 60438618,
+      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-com.damtechdesigns.wa.story-2026.01-20260615164348-b121a2bc/PureStatus-2026.01.ipa"
     },
     {
       "name": "Rave",
@@ -678,17 +649,7 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Rave/Rave.8.0.ipa"
     }
   ],
-  "news": [
-    {
-      "title": "Обновления",
-      "identifier": "1",
-      "caption": "Привет",
-      "tintColor": "848ef9",
-      "date": "2026-07-04",
-      "notify": false,
-      "imageURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/1-d2389af711.jpg"
-    }
-  ],
+  "news": [],
   "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/Logo/D31DCFD4-DBFE-4A16-A81C-D2D34DF36CD0.png?raw=true",
   "website": "https://example.com",
   "subtitle": "Источник IPA приложений",
