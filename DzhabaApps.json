@@ -27,10 +27,11 @@
     }
   ],
   "news": [],
-  "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/blob/main/Logo/D31DCFD4-DBFE-4A16-A81C-D2D34DF36CD0.png?raw=true",
-  "website": "https://example.com",
+  "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/repo-icon-eb2c0d1a9f.png",
+  "website": "https://t.me/DzhabaApps_bot",
+  "headerURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/repo-header-7124e880b9.jpg",
   "subtitle": "Источник IPA приложений",
-  "patreonURL": "https://patreon.com/altstudio",
+  "patreonURL": "https://t.me/DzhabaApps_bot",
   "tintColor": "4185a9",
   "featuredApps": [
     "app.teledark",
