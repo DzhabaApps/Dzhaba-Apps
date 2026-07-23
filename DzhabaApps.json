@@ -49,29 +49,6 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsappsmb-26.27.10-20260718144850-f6ec5391/Whatsapp-Business-Plus-26.27.10.ipa"
     },
     {
-      "name": "HDrezka",
-      "bundleIdentifier": "me.keet.HDRezka",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/me.keet.HDRezka-1.6.0.png",
-      "localizedDescription": "✅ Обновлено фоновое воспроизведение - теперь видео не будет останавливаться при блокировке экрана\r\n🔄 Плеер запоминает время просмотра и автоматически воспроизводит следующую серию\r\n📼 Добавлен выбор предпочитаемого качества видео\r\n📂 Добавлен выбор места назначения загрузки, загруженные в приложение видео могут быть просмотрены во встроенном плеере\r\n🕘 Добавлена опция для отключения добавления просмотренного в \"Досмотреть\"\r\n⭐️ Добавлено отображение дней до окончания подписки\r\n➕ Другие улучшения",
-      "subtitle": "HDrezka",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.6.0",
-          "date": "2026-07-23T15:47:00Z",
-          "size": 7172224,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [],
-      "version": "1.6.0",
-      "versionDate": "2026-07-23T15:47:00Z",
-      "size": 7172224,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
-    },
-    {
       "name": "Instagram Plus",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "",
@@ -116,6 +93,121 @@
       "versionDate": "2026-07-18T15:19:00Z",
       "size": 139375171,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.google.ios.youtube-21.24.3-20260718151938-0568cff1/YouTube-Plus-21.24.3.ipa"
+    },
+    {
+      "name": "РоссельХозбанк (Бычок Каберне)",
+      "bundleIdentifier": "ru.bychokcabernet.winescanner",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/ru.bychokcabernet.winescanner-1.4.png",
+      "localizedDescription": "Приложение удаленное из App Store",
+      "subtitle": "Бычок Каберне",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-07-23T21:31:00Z",
+          "size": 130467615,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.bychokcabernet.winescanner-1.4-20260723213135-d39a1144/ru.bychokcabernet.winescanner-1.4.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "1.4",
+      "versionDate": "2026-07-23T21:31:00Z",
+      "size": 130467615,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.bychokcabernet.winescanner-1.4-20260723213135-d39a1144/ru.bychokcabernet.winescanner-1.4.ipa"
+    },
+    {
+      "name": "Т-Банк",
+      "bundleIdentifier": "com.flavorvault.savor",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.flavorvault.savor-3.0.1.png",
+      "localizedDescription": "Приложение удаленное из App Store",
+      "subtitle": "Т-Банк",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2026-07-23T21:42:00Z",
+          "size": 217852368,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.flavorvault.savor-3.0.1-20260723214210-93d9bd72/com.flavorvault.savor-3.0.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "3.0.1",
+      "versionDate": "2026-07-23T21:42:00Z",
+      "size": 217852368,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.flavorvault.savor-3.0.1-20260723214210-93d9bd72/com.flavorvault.savor-3.0.1.ipa"
+    },
+    {
+      "name": "Online",
+      "bundleIdentifier": "com.inv.gen",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.inv.gen-17.6.1.png",
+      "localizedDescription": "Приложение удаленное из App Store",
+      "subtitle": "Online",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "17.6.1",
+          "date": "2026-07-23T21:51:00Z",
+          "size": 272642209,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.inv.gen-17.6.1-20260723215157-a47ba024/com.inv.gen-17.6.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "17.6.1",
+      "versionDate": "2026-07-23T21:51:00Z",
+      "size": 272642209,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.inv.gen-17.6.1-20260723215157-a47ba024/com.inv.gen-17.6.1.ipa"
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.duolingo.DuolingoMobile-7.108.1.png",
+      "localizedDescription": "— Подписка Duolingo Max уже активирована\r\n— Обучение без рекламы\r\n— Неограниченные сердца и энергия\r\n— Доступ ко всем преимуществам Super Duolingo\r\n— Видеозвонки с Лили на изучаемом языке\r\n— Живые разговоры с искусственным интеллектом\r\n— Ролевые диалоги на повседневные темы\r\n— Подробные объяснения ошибок и правил\r\n— Практика произношения и разговорной речи\r\n— Повтор пройденных диалогов и видеозвонков\r\n— Персональные упражнения для закрепления материала\r\n— Удобное изучение языка в собственном темпе",
+      "subtitle": "Duolingo",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "7.108.1",
+          "date": "2026-07-23T22:10:00Z",
+          "size": 213708485,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.duolingo.duolingomobile-7.108.1-20260723221028-313406b2/Duolingo-Max-7.108.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "7.108.1",
+      "versionDate": "2026-07-23T22:10:00Z",
+      "size": 213708485,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.duolingo.duolingomobile-7.108.1-20260723221028-313406b2/Duolingo-Max-7.108.1.ipa"
+    },
+    {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/me.keet.HDRezka-1.6.0.png",
+      "localizedDescription": "✅ Обновлено фоновое воспроизведение - теперь видео не будет останавливаться при блокировке экрана\r\n🔄 Плеер запоминает время просмотра и автоматически воспроизводит следующую серию\r\n📼 Добавлен выбор предпочитаемого качества видео\r\n📂 Добавлен выбор места назначения загрузки, загруженные в приложение видео могут быть просмотрены во встроенном плеере\r\n🕘 Добавлена опция для отключения добавления просмотренного в \"Досмотреть\"\r\n⭐️ Добавлено отображение дней до окончания подписки\r\n➕ Другие улучшения",
+      "subtitle": "HDrezka",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-07-23T15:47:00Z",
+          "size": 7172224,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "1.6.0",
+      "versionDate": "2026-07-23T15:47:00Z",
+      "size": 7172224,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
     },
     {
       "name": "MAX",
