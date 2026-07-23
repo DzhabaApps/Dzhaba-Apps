@@ -49,6 +49,29 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsappsmb-26.27.10-20260718144850-f6ec5391/Whatsapp-Business-Plus-26.27.10.ipa"
     },
     {
+      "name": "HDrezka",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/me.keet.HDRezka-1.6.0.png",
+      "localizedDescription": "✅ Обновлено фоновое воспроизведение - теперь видео не будет останавливаться при блокировке экрана\r\n🔄 Плеер запоминает время просмотра и автоматически воспроизводит следующую серию\r\n📼 Добавлен выбор предпочитаемого качества видео\r\n📂 Добавлен выбор места назначения загрузки, загруженные в приложение видео могут быть просмотрены во встроенном плеере\r\n🕘 Добавлена опция для отключения добавления просмотренного в \"Досмотреть\"\r\n⭐️ Добавлено отображение дней до окончания подписки\r\n➕ Другие улучшения",
+      "subtitle": "HDrezka",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-07-23T15:47:00Z",
+          "size": 7172224,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "1.6.0",
+      "versionDate": "2026-07-23T15:47:00Z",
+      "size": 7172224,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
+    },
+    {
       "name": "Instagram Plus",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "",
