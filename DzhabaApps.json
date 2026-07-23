@@ -1,29 +1,466 @@
 {
-  "name": "DzhabaApps",
+  "name": "DZH Store",
   "identifier": "com.dzhaba.apps.repo",
   "apps": [
     {
-      "name": "‎WhatsApp Gold",
+      "name": "‎WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "Dzhaba Raduev",
-      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/net.whatsapp.WhatsApp-26.26.10.png",
-      "localizedDescription": "WhatsApp Gold\r\n\r\nОсобенности:\r\n📞 Запись звонков.\r\n📌 Закрепление неограниченного количества чатов.\r\n🚪 Возможность выхода из аккаунта.\r\n🧹 Очистка, исправление проблем с отправкой.\r\n👻 Улучшения в режиме призрака.\r\n📢 Выделение групповых сообщений.\r\n✅ Множество исправлений\r\n🔄 Совместимость с последней версией WhatsApp.",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/net.whatsapp.WhatsApp-26.28.10.png",
+      "localizedDescription": "Для более безопасного и стабильного использования рекомендуется подключить приложение как связанное устройство. Подробная инструкция по подключению размещена в нашей группе в Telegram.\r\n\r\n— Скрытие статуса «В сети» и времени последнего посещения\r\n— Отключение отчётов о прочтении сообщений\r\n— Скрытие индикаторов набора текста и записи аудио\r\n— Сохранение удалённых собеседником сообщений\r\n— Просмотр и скачивание удалённых статусов\r\n— Анонимный просмотр статусов\r\n— Скачивание фото и видео из статусов\r\n— Отправка сообщений по расписанию\r\n— Настройка автоматических ответов\r\n— Защита отдельных чатов паролем или биометрией\r\n— Отключение отметки «Переслано»\r\n— Расширенные настройки приватности\r\n— Пользовательские темы, цвета и шрифты\r\n— Дополнительные возможности для чатов и медиа",
       "subtitle": "‎WhatsApp",
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "26.26.10",
-          "date": "2026-07-05T09:13:00Z",
-          "size": 140827121,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.26.10-20260705091343-bb038ac7/WhatsApp-26.26.10.ipa"
+          "version": "26.28.10",
+          "date": "2026-07-18T14:08:00Z",
+          "size": 141229906,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.28.10-20260718140851-0e85db6b/Whatsapp-Plus-26.28.10.ipa"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [],
-      "version": "26.26.10",
-      "versionDate": "2026-07-05T09:13:00Z",
-      "size": 140827121,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.26.10-20260705091343-bb038ac7/WhatsApp-26.26.10.ipa"
+      "version": "26.28.10",
+      "versionDate": "2026-07-18T14:08:00Z",
+      "size": 141229906,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.28.10-20260718140851-0e85db6b/Whatsapp-Plus-26.28.10.ipa"
+    },
+    {
+      "name": "‎WA Business Plus",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/net.whatsapp.WhatsAppSMB-26.27.10.png",
+      "localizedDescription": "Для более безопасного и стабильного использования рекомендуется подключить приложение как связанное устройство. Подробная инструкция по подключению размещена в нашей группе в Telegram.\r\n\r\n— Скрытие статуса «В сети» и времени последнего посещения\r\n— Отключение отчётов о прочтении сообщений\r\n— Скрытие индикаторов набора текста и записи аудио\r\n— Сохранение удалённых собеседником сообщений\r\n— Просмотр и скачивание удалённых статусов\r\n— Анонимный просмотр статусов\r\n— Скачивание фото и видео из статусов\r\n— Отправка сообщений по расписанию\r\n— Настройка автоматических ответов\r\n— Защита отдельных чатов паролем или биометрией\r\n— Отключение отметки «Переслано»\r\n— Расширенные настройки приватности\r\n— Пользовательские темы, цвета и шрифты\r\n— Дополнительные возможности для чатов и медиа",
+      "subtitle": "‎WA Business",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "26.27.10",
+          "date": "2026-07-18T14:48:00Z",
+          "size": 148228693,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsappsmb-26.27.10-20260718144850-f6ec5391/Whatsapp-Business-Plus-26.27.10.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "26.27.10",
+      "versionDate": "2026-07-18T14:48:00Z",
+      "size": 148228693,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsappsmb-26.27.10-20260718144850-f6ec5391/Whatsapp-Business-Plus-26.27.10.ipa"
+    },
+    {
+      "name": "Instagram Plus",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.burbn.instagram-435.1.0.png",
+      "localizedDescription": "— Просмотр ленты без рекламы\r\n— Скачивание фото, видео, Reels, историй и аудио\r\n— Загрузка контента в HD-качестве до 1080p\r\n— Анонимный просмотр историй и прямых эфиров\r\n— Отключение отметок о просмотре сообщений и историй\r\n— Скрытие статуса набора текста\r\n— Сохранение удалённых сообщений и исчезающих медиа\r\n— Повторный просмотр одноразовых фото и видео\r\n— Увеличение и сохранение фотографий профиля\r\n— Копирование описаний, комментариев, заметок и ссылок\r\n— Автопрокрутка Reels и постоянная полоса перемотки\r\n— Скрытие рекомендуемых публикаций, Reels и аккаунтов\r\n— Отключение автоматического воспроизведения видео\r\n— Анализ подписчиков, взаимных подписок и отписок\r\n— Поиск и сортировка подписчиков и подписок\r\n— Настройка интерфейса, вкладок и темы приложения\r\n— Защита приложения и отдельных чатов паролем или биометрией",
+      "subtitle": "Instagram",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "435.1.0",
+          "date": "2026-07-18T15:05:00Z",
+          "size": 326799469,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.burbn.instagram-435.1.0-20260718150555-948ad93f/Instagram-Plus-435.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "435.1.0",
+      "versionDate": "2026-07-18T15:05:00Z",
+      "size": 326799469,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.burbn.instagram-435.1.0-20260718150555-948ad93f/Instagram-Plus-435.1.0.ipa"
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.google.ios.youtube-21.24.3.png",
+      "localizedDescription": "— Просмотр видео без рекламы\r\n— Фоновое воспроизведение при свёрнутом приложении\r\n— Работа звука при заблокированном экране\r\n— Режим «Картинка в картинке»\r\n— Скачивание видео для просмотра без интернета\r\n— Загрузка отдельных аудиодорожек\r\n— Выбор качества видео и звука перед скачиванием\r\n— Автоматический пропуск рекламных интеграций\r\n— Пропуск вступлений, заставок и конечных фрагментов\r\n— Отключение коротких видео Shorts\r\n— Возврат количества дизлайков\r\n— Изменение скорости воспроизведения\r\n— Выбор качества видео по умолчанию\r\n— Дополнительные жесты управления яркостью и громкостью\r\n— Возможность скрывать ненужные элементы интерфейса\r\n— Расширенные настройки проигрывателя и внешнего вида",
+      "subtitle": "YouTube",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-07-18T15:19:00Z",
+          "size": 139375171,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.google.ios.youtube-21.24.3-20260718151938-0568cff1/YouTube-Plus-21.24.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "21.24.3",
+      "versionDate": "2026-07-18T15:19:00Z",
+      "size": 139375171,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.google.ios.youtube-21.24.3-20260718151938-0568cff1/YouTube-Plus-21.24.3.ipa"
+    },
+    {
+      "name": "MAX",
+      "bundleIdentifier": "ru.oneme.app",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/ru.oneme.app-26.17.3.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "MAX",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "26.17.3",
+          "date": "2026-07-22T11:50:00Z",
+          "size": 52050662,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.oneme.app-26.17.3-20260722115057-02b1dc01/MAX-26.17.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "26.17.3",
+      "versionDate": "2026-07-22T11:50:00Z",
+      "size": 52050662,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.oneme.app-26.17.3-20260722115057-02b1dc01/MAX-26.17.3.ipa"
+    },
+    {
+      "name": "VK Video",
+      "bundleIdentifier": "com.vk.vkvideo.prod1235",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.vk.vkvideo.prod1235-8.183.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "VK Video",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "8.183",
+          "date": "2026-07-22T11:39:00Z",
+          "size": 138849730,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.vk.vkvideo.prod1235-8.183-20260722113912-dc220397/VK-Video-8.183.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "8.183",
+      "versionDate": "2026-07-22T11:39:00Z",
+      "size": 138849730,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.vk.vkvideo.prod1235-8.183-20260722113912-dc220397/VK-Video-8.183.ipa"
+    },
+    {
+      "name": "Почта Mail.ru",
+      "bundleIdentifier": "ru.mail.mail",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/ru.mail.mail-15.92.0.png",
+      "localizedDescription": "Оригинально приложение удаленное из App Store",
+      "subtitle": "Почта Mail.ru",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "15.92.0",
+          "date": "2026-07-22T11:45:00Z",
+          "size": 155113071,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.mail.mail-15.92.0-20260722114524-b9484ec1/Mail.ru-15.92.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "15.92.0",
+      "versionDate": "2026-07-22T11:45:00Z",
+      "size": 155113071,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.mail.mail-15.92.0-20260722114524-b9484ec1/Mail.ru-15.92.0.ipa"
+    },
+    {
+      "name": "Alight Motion Premium",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.alightcreative.motion-6.2.54.png",
+      "localizedDescription": "— Экспорт видео без водяного знака\r\n— Доступ ко всем премиум-функциям и эффектам\r\n— Профессиональная анимация с ключевыми кадрами\r\n— Многослойный монтаж видео, изображений, текста и аудио\r\n— Более 150 визуальных эффектов с гибкой настройкой\r\n— Создание плавных движений и собственных кривых анимации\r\n— Размытие движения на основе скорости\r\n— Группировка слоёв и работа с масками\r\n— Поддержка векторной и растровой графики\r\n— Продвинутая цветокоррекция и наложение эффектов\r\n— Анимация камеры, приближения и фокусировки\r\n— Поддержка пользовательских шрифтов\r\n— Экспорт в MP4, GIF и последовательность PNG\r\n— Сохранение и повторное использование элементов\r\n— Отправка редактируемых проектов другим пользователям",
+      "subtitle": "Alight Motion",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "6.2.54",
+          "date": "2026-07-22T11:54:00Z",
+          "size": 124279209,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alightcreative.motion-6.2.54-20260722115441-dd67c18a/Alight-Motion-6.2.54.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "6.2.54",
+      "versionDate": "2026-07-22T11:54:00Z",
+      "size": 124279209,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alightcreative.motion-6.2.54-20260722115441-dd67c18a/Alight-Motion-6.2.54.ipa"
+    },
+    {
+      "name": "РЖД Пассажирам",
+      "bundleIdentifier": "ru.dorogi20260609.passenger",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/ru.dorogi20260609.passenger-1.50.png",
+      "localizedDescription": "— Оригинальное приложение удаленное из App Store",
+      "subtitle": "Пассажирам",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.50",
+          "date": "2026-07-22T12:01:00Z",
+          "size": 32735578,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.dorogi20260609.passenger-1.50-20260722120137-53a7bcc9/ru.dorogi20260609.passenger-1.50.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "1.50",
+      "versionDate": "2026-07-22T12:01:00Z",
+      "size": 32735578,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.dorogi20260609.passenger-1.50-20260722120137-53a7bcc9/ru.dorogi20260609.passenger-1.50.ipa"
+    },
+    {
+      "name": "Infuse Premium",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.firecore.infuse-8.4.1.png",
+      "localizedDescription": "— Воспроизведение видео без предварительной конвертации\r\n— Поддержка MKV, MP4, AVI, ISO и других форматов\r\n— Просмотр видео в 4K, HDR, HDR10+ и Dolby Vision\r\n— Поддержка многоканального звука Dolby и DTS\r\n— Подключение к Plex, Emby, Jellyfin, Kodi и медиасерверам\r\n— Просмотр файлов с компьютера, NAS и сетевых накопителей\r\n— Доступ к Dropbox, Google Drive, OneDrive, MEGA и другим облакам\r\n— Трансляция видео через AirPlay и Google Cast\r\n— Автоматическая загрузка обложек и информации о фильмах\r\n— Поиск и загрузка субтитров через OpenSubtitles\r\n— Синхронизация истории, прогресса и настроек между устройствами\r\n— Интеграция с Trakt\r\n— Режим «Картинка в картинке»\r\n— Загрузка видео для просмотра без интернета",
+      "subtitle": "Infuse",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "8.4.1",
+          "date": "2026-07-22T12:09:00Z",
+          "size": 83506392,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.firecore.infuse-8.4.1-20260722120937-d5503078/Infuse-Pro-8.4.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "8.4.1",
+      "versionDate": "2026-07-22T12:09:00Z",
+      "size": 83506392,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.firecore.infuse-8.4.1-20260722120937-d5503078/Infuse-Pro-8.4.1.ipa"
+    },
+    {
+      "name": "Picsart Premium",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.picsart.studio-29.6.2.png",
+      "localizedDescription": "— Доступ ко всем премиум-фильтрам и эффектам\r\n— Удаление и замена фона одним нажатием\r\n— Удаление лишних объектов с фотографий\r\n— Профессиональная ретушь лица и кожи\r\n— Улучшение качества и резкости изображений\r\n— Генерация изображений и фонов с помощью ИИ\r\n— Большая коллекция премиум-шаблонов\r\n— Эксклюзивные шрифты, стикеры и графические элементы\r\n— Создание коллажей, обложек и публикаций\r\n— Расширенные инструменты для редактирования видео\r\n— Добавление музыки, эффектов и плавных переходов\r\n— Сохранение изображений в высоком качестве\r\n— Работа без рекламы\r\n— Полный набор инструментов для творчества и дизайна",
+      "subtitle": "Picsart Premium",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "29.6.2",
+          "date": "2026-07-22T12:19:00Z",
+          "size": 110033544,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.picsart.studio-29.6.2-20260722121924-ca191f0e/Picsart-Premium-29.6.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "29.6.2",
+      "versionDate": "2026-07-22T12:19:00Z",
+      "size": 110033544,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.picsart.studio-29.6.2-20260722121924-ca191f0e/Picsart-Premium-29.6.2.ipa"
+    },
+    {
+      "name": "Rave",
+      "bundleIdentifier": "sh.weme.wemesh",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/sh.weme.wemesh-8.0.png",
+      "localizedDescription": "— Без рекламы \r\n— Удален из App Store",
+      "subtitle": "Rave",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "8.0",
+          "date": "2026-07-22T13:16:00Z",
+          "size": 111415602,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-sh.weme.wemesh-8.0-20260722131616-79d4cf68/Rave-8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "8.0",
+      "versionDate": "2026-07-22T13:16:00Z",
+      "size": 111415602,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-sh.weme.wemesh-8.0-20260722131616-79d4cf68/Rave-8.0.ipa"
+    },
+    {
+      "name": "OK",
+      "bundleIdentifier": "ru.odnoklassniki.iphone",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/ru.odnoklassniki.iphone-11.63.1.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "OK",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "11.63.1",
+          "date": "2026-07-23T08:27:00Z",
+          "size": 192933189,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.odnoklassniki.iphone-11.63.1-20260723082724-3a8d9657/OK-11.63.1.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "11.63.1",
+      "versionDate": "2026-07-23T08:27:00Z",
+      "size": 192933189,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.odnoklassniki.iphone-11.63.1-20260723082724-3a8d9657/OK-11.63.1.ipa"
+    },
+    {
+      "name": "Юла",
+      "bundleIdentifier": "com.allgoritm.Youla",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.allgoritm.Youla-6.0.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "Юла",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "6.0",
+          "date": "2026-07-23T08:30:00Z",
+          "size": 86001220,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.allgoritm.youla-6.0-20260723083019-8d37def5/com.allgoritm.Youla-6.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "6.0",
+      "versionDate": "2026-07-23T08:30:00Z",
+      "size": 86001220,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.allgoritm.youla-6.0-20260723083019-8d37def5/com.allgoritm.Youla-6.0.ipa"
+    },
+    {
+      "name": "KineMaster Premium",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.kinemaster.kios-8.1.15.png",
+      "localizedDescription": "Для активации премиум-функций откройте приложение и войдите через Apple ID или аккаунт Google.\r\n\r\n— Экспорт видео без водяного знака\r\n— Полное отсутствие рекламы\r\n— Доступ ко всем премиум-эффектам и переходам\r\n— Большая коллекция музыки и звуковых эффектов\r\n— Премиум-шрифты, стикеры и графические элементы\r\n— Профессиональный многослойный монтаж\r\n— Поддержка хромакея и замены зелёного фона\r\n— Удаление фона с помощью искусственного интеллекта\r\n— Автоматическое создание субтитров\r\n— Настройка скорости и плавное замедление видео\r\n— Цветокоррекция, фильтры и улучшение изображения\r\n— Обрезка, объединение и разделение видеороликов\r\n— Обработка звука и изменение голоса\r\n— Добавление анимаций и плавных переходов\r\n— Экспорт видео в высоком качестве до 4K\r\n— Сохранение проектов для дальнейшего редактирования",
+      "subtitle": "KineMaster",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "8.1.15",
+          "date": "2026-07-23T09:12:00Z",
+          "size": 116781283,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.kinemaster.kios-8.1.15-20260723091235-51106cb1/KineMaster-Premium-8.1.15.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "8.1.15",
+      "versionDate": "2026-07-23T09:12:00Z",
+      "size": 116781283,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.kinemaster.kios-8.1.15-20260723091235-51106cb1/KineMaster-Premium-8.1.15.ipa"
+    },
+    {
+      "name": "PureStatus Premium",
+      "bundleIdentifier": "com.damtechdesigns.wa.story",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.damtechdesigns.wa.story-2026.02.png",
+      "localizedDescription": "• Премиум разблокирован\r\n• Публикация фото и видео в статусах WhatsApp без потери качества\r\n• Умное сжатие с сохранением чёткости и детализации\r\n• Поддержка высокого HD-качества\r\n• Быстрая обработка файлов в одно нажатие\r\n• Автоматическое разделение длинных видео на части по 30 секунд\r\n• Обрезка видео до нужной продолжительности\r\n• Добавление текста, стильных шрифтов и эффектов\r\n• Добавление стикеров и графических элементов\r\n• Наложение музыки и собственных аудиофайлов\r\n• Извлечение звука из других видеороликов\r\n• Загрузка фотографий в статус без размытия\r\n• Сохранение готовых материалов без водяного знака\r\n• Встроенный ИИ-помощник\r\n• Простой и удобный интерфейс",
+      "subtitle": "PureStatus",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2026.02",
+          "date": "2026-07-23T10:02:00Z",
+          "size": 64391377,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.damtechdesigns.wa.story-2026.02-20260723100205-6a413680/PureStatus-Premium-2026.02.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "2026.02",
+      "versionDate": "2026-07-23T10:02:00Z",
+      "size": 64391377,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.damtechdesigns.wa.story-2026.02-20260723100205-6a413680/PureStatus-Premium-2026.02.ipa"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.zhiliaoapp.musically-45.8.0.png",
+      "localizedDescription": "— Просмотр видео без рекламы\r\n— Скачивание роликов без водяного знака\r\n— Загрузка видео в высоком качестве\r\n— Сохранение фотографий из публикаций\r\n— Скачивание музыки и оригинальных звуков\r\n— Отображение полосы перемотки видео\r\n— Автоматическое переключение на следующий ролик\r\n— Копирование описания и ссылки на видео\r\n— Копирование ссылки на используемую музыку\r\n— Возможность скрывать элементы интерфейса\r\n— Настройка региона для рекомендаций\r\n— Отключение прямых эфиров в ленте\r\n— Дополнительные настройки воспроизведения\r\n— Расширенные возможности для просмотра и сохранения контента",
+      "subtitle": "TikTok",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "45.8.0",
+          "date": "2026-07-23T09:22:00Z",
+          "size": 420877570,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.zhiliaoapp.musically-45.8.0-20260723092256-aa02b516/TikTok-Plus-45.8.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "45.8.0",
+      "versionDate": "2026-07-23T09:22:00Z",
+      "size": 420877570,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.zhiliaoapp.musically-45.8.0-20260723092256-aa02b516/TikTok-Plus-45.8.0.ipa"
+    },
+    {
+      "name": "Авито (Au Ru)",
+      "bundleIdentifier": "org.reactjs.native.prod.AuReactNativeApp",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/org.reactjs.native.prod.AuReactNativeApp-221.0.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "Au Авито",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "221.0",
+          "date": "2026-07-23T09:35:00Z",
+          "size": 370836221,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-org.reactjs.native.prod.aureactnativeapp-221.0-20260723093504-43fc68f0/Au-ru-221.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "221.0",
+      "versionDate": "2026-07-23T09:35:00Z",
+      "size": 370836221,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-org.reactjs.native.prod.aureactnativeapp-221.0-20260723093504-43fc68f0/Au-ru-221.0.ipa"
+    },
+    {
+      "name": "Persona Premium",
+      "bundleIdentifier": "com.tickettothemoon.video.persona",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.tickettothemoon.video.persona-1.15.42.png",
+      "localizedDescription": "— Доступ ко всем премиум-функциям\r\n— Сохранение обработанных фото и видео без ограничений\r\n— Профессиональная ретушь лица и кожи\r\n— Удаление прыщей, пятен и других несовершенств\r\n— Разглаживание кожи и выравнивание её тона\r\n— Коррекция глаз, носа, губ и линии подбородка\r\n— Изменение причёски и добавление объёма волосам\r\n— Естественная коррекция фигуры и пропорций\r\n— Улучшение яркости, контраста и резкости\r\n— Премиум-фильтры и стильные визуальные эффекты\r\n— Добавление веснушек, ямочек и других деталей\r\n— Инструменты на основе искусственного интеллекта\r\n— Создание новых образов и фотосессий по селфи\r\n— Быстрая обработка фотографий и видеороликов",
+      "subtitle": "Persona",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.15.42",
+          "date": "2026-07-23T09:48:00Z",
+          "size": 201825343,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.tickettothemoon.video.persona-1.15.42-20260723094815-fccc6c93/Persona-Premium-1.15.42.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "1.15.42",
+      "versionDate": "2026-07-23T09:48:00Z",
+      "size": 201825343,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.tickettothemoon.video.persona-1.15.42-20260723094815-fccc6c93/Persona-Premium-1.15.42.ipa"
+    },
+    {
+      "name": "Radarbot Premium",
+      "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+      "developerName": "Dzhaba Raduev",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/com.iteration-mobile.radarbot-free-ww-9.43.png",
+      "localizedDescription": "— Премиум разблокирован\r\n— Работа без рекламы\r\n— Предупреждения о стационарных и мобильных камерах\r\n— Оповещения о камерах на светофорах и в тоннелях\r\n— Контроль участков со средней скоростью\r\n— Отображение текущего ограничения скорости\r\n— Дорожные предупреждения в реальном времени\r\n— Автоматическое обновление базы камер\r\n— Офлайн-навигация и предупреждения без интернета\r\n— Голосовые, звуковые и вибрационные уведомления\r\n— Работа в фоновом режиме и при заблокированном экране\r\n— Автозапуск при подключении к автомобилю по Bluetooth\r\n— Выбор маршрута с меньшим количеством камер\r\n— Поддержка Apple CarPlay и Android Auto\r\n— Настройка расстояния и типа предупреждений",
+      "subtitle": "Radarbot",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "9.43",
+          "date": "2026-07-23T09:56:00Z",
+          "size": 148911591,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.iteration-mobile.radarbot-free-ww-9.43-20260723095628-4f439ea2/Radarbot-Pro-9.43.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "version": "9.43",
+      "versionDate": "2026-07-23T09:56:00Z",
+      "size": 148911591,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.iteration-mobile.radarbot-free-ww-9.43-20260723095628-4f439ea2/Radarbot-Pro-9.43.ipa"
     }
   ],
   "news": [],
