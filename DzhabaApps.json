@@ -19,7 +19,9 @@
         }
       ],
       "appPermissions": {},
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.28.10-20260718140851-0e85db6b/screenshot-net-whatsapp-whatsapp-5cf8f0c2b0a1.jpg"
+      ],
       "version": "26.28.10",
       "versionDate": "2026-07-18T14:08:00Z",
       "size": 141229906,
