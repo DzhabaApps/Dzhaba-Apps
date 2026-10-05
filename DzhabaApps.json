@@ -576,29 +576,6 @@
       "versionDate": "2026-07-23T09:56:00Z",
       "size": 148911591,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.iteration-mobile.radarbot-free-ww-9.43-20260723095628-4f439ea2/Radarbot-Pro-9.43.ipa"
-    },
-    {
-      "name": "Alpin Quests",
-      "bundleIdentifier": "com.alpinquest.app",
-      "developerName": "",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alpinquest.app-9.0.23-f0052d2c/icon-com.alpinquest.app-9.0.23-f0052d2c.png",
-      "localizedDescription": "Alpin Quests",
-      "subtitle": "Alpin Quests",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "9.0.23",
-          "date": "2026-10-04T12:29:41Z",
-          "size": 17470481,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alpinquest.app-9.0.23-f0052d2c/Alpin-Quests-9.0.23-ea075b18.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [],
-      "version": "9.0.23",
-      "versionDate": "2026-10-04T12:29:41Z",
-      "size": 17470481,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alpinquest.app-9.0.23-f0052d2c/Alpin-Quests-9.0.23-ea075b18.ipa"
     }
   ],
   "news": [],
