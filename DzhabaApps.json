@@ -302,29 +302,6 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alightcreative.motion-6.2.54-20260722115441-dd67c18a/Alight-Motion-6.2.54.ipa"
     },
     {
-      "name": "РЖД Пассажирам",
-      "bundleIdentifier": "ru.dorogi20260609.passenger",
-      "developerName": "Dzhaba Raduev",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.dorogi20260609.passenger-1.50-20260722120137-53a7bcc9/icon-ru.dorogi20260609.passenger-b5f44d571571.png",
-      "localizedDescription": "— Оригинальное приложение удаленное из App Store",
-      "subtitle": "Пассажирам",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.50",
-          "date": "2026-07-22T12:01:00Z",
-          "size": 32735578,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.dorogi20260609.passenger-1.50-20260722120137-53a7bcc9/ru.dorogi20260609.passenger-1.50.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [],
-      "version": "1.50",
-      "versionDate": "2026-07-22T12:01:00Z",
-      "size": 32735578,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.dorogi20260609.passenger-1.50-20260722120137-53a7bcc9/ru.dorogi20260609.passenger-1.50.ipa"
-    },
-    {
       "name": "Infuse Premium",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Dzhaba Raduev",
