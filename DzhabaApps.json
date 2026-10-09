@@ -599,6 +599,30 @@
       "versionDate": "2026-10-06T21:37:06Z",
       "size": 17470481,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.alpinquest.app-9.0.23-27f1cdea/Alpin-Quests-9.0.23-6fc83b25.ipa"
+    },
+    {
+      "name": "РЖД (TrainGo)",
+      "bundleIdentifier": "com.railtravelmap.app30072026",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.railtravelmap.app30072026-1.0-ab652af9/icon-com.railtravelmap.app30072026-1.0-ab652af9.png",
+      "localizedDescription": "TrainGo",
+      "subtitle": "РЖД (TrainGo)",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-09T21:28:12Z",
+          "size": 44879713,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.railtravelmap.app30072026-1.0-ab652af9/TrainGo-1.0-aa2dfa12.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "other",
+      "version": "1.0",
+      "versionDate": "2026-10-09T21:28:12Z",
+      "size": 44879713,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.railtravelmap.app30072026-1.0-ab652af9/TrainGo-1.0-aa2dfa12.ipa"
     }
   ],
   "news": [],
