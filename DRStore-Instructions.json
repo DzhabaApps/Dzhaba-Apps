@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T14:02:14.254038+00:00",
+  "updated_at": "2026-10-11T15:48:46.424019+00:00",
   "instructions": [
     {
       "id": "c8521388-2799-423c-9d2e-e23f160d5ade",
@@ -13,7 +13,7 @@
       "bundle_ids": [
         "net.whatsapp.WhatsApp"
       ],
-      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-c8521388-2799-423c-9d2e-e23f160d5ade-video-efffad4f0d66529683d2.mp4",
+      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-c8521388-2799-423c-9d2e-e23f160d5ade-video-c579e69c9e793e7fa34a.mp4",
       "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-c8521388-2799-423c-9d2e-e23f160d5ade-cover-c65db1a83926f2418489.jpg",
       "aspect_ratio": 0.5625,
       "is_test": true
