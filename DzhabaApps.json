@@ -626,7 +626,16 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.vk.vkclient-8.144.1-530a086a/VK-8.144.1-99c78d9a.ipa"
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "identifier": "dr-news-752356889d704e9db53246757f2465fd",
+      "title": "Приложения",
+      "caption": "Приложения",
+      "date": "2026-10-16",
+      "tintColor": "7866E8",
+      "imageURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/dr-store-news/752356889d704e9db53246757f2465fd-dc4fbb18c165f847.jpg"
+    }
+  ],
   "iconURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/repo-icon-eb2c0d1a9f.png",
   "website": "https://t.me/DzhabaApps_bot",
   "headerURL": "https://raw.githubusercontent.com/DzhabaApps/Dzhaba-Apps/main/assets/repo-header-7124e880b9.jpg",
