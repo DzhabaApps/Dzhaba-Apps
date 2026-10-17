@@ -142,6 +142,30 @@
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-ru.bychokcabernet.winescanner-1.4-20260723213135-d39a1144/ru.bychokcabernet.winescanner-1.4.ipa"
     },
     {
+      "name": "Альфа Банк (Advance)",
+      "bundleIdentifier": "com.advancy.app",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/icon-com.advancy.app-1.2-bbc8a971.png",
+      "localizedDescription": "Оригинальное приложение удаленное из App Store",
+      "subtitle": "Альфа Банк (Advance)",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-10-17T15:52:58Z",
+          "size": 127793350,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/Advance-1.2-5431e7bc.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "finance",
+      "version": "1.2",
+      "versionDate": "2026-10-17T15:52:58Z",
+      "size": 127793350,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/Advance-1.2-5431e7bc.ipa"
+    },
+    {
       "name": "Т-Банк",
       "bundleIdentifier": "com.flavorvault.savor",
       "developerName": "",
@@ -624,30 +648,6 @@
       "versionDate": "2026-10-14T19:59:08Z",
       "size": 209551943,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.vk.vkclient-8.144.1-530a086a/VK-8.144.1-99c78d9a.ipa"
-    },
-    {
-      "name": "Альфа Банк (Advance)",
-      "bundleIdentifier": "com.advancy.app",
-      "developerName": "",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/icon-com.advancy.app-1.2-bbc8a971.png",
-      "localizedDescription": "Оригинальное приложение удаленное из App Store",
-      "subtitle": "Альфа Банк (Advance)",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2026-10-17T15:52:58Z",
-          "size": 127793350,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/Advance-1.2-5431e7bc.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [],
-      "category": "finance",
-      "version": "1.2",
-      "versionDate": "2026-10-17T15:52:58Z",
-      "size": 127793350,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.advancy.app-1.2-bbc8a971/Advance-1.2-5431e7bc.ipa"
     }
   ],
   "news": [],
