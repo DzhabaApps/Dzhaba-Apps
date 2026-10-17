@@ -251,24 +251,24 @@
       "tintColor": "848ef9",
       "versions": [
         {
-          "version": "1.5.4",
-          "date": "2026-10-17T19:50:55Z",
-          "size": 5109566,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.5.4-15967dd0/HDrezka-1.5.4-3c029fc5.ipa"
-        },
-        {
           "version": "1.6.0",
           "date": "2026-07-23T15:47:00Z",
           "size": 7172224,
           "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa"
+        },
+        {
+          "version": "1.5.4",
+          "date": "2026-10-17T19:50:55Z",
+          "size": 5109566,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.5.4-15967dd0/HDrezka-1.5.4-3c029fc5.ipa"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [],
-      "version": "1.5.4",
-      "versionDate": "2026-10-17T19:50:55Z",
-      "size": 5109566,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.5.4-15967dd0/HDrezka-1.5.4-3c029fc5.ipa",
+      "version": "1.6.0",
+      "versionDate": "2026-07-23T15:47:00Z",
+      "size": 7172224,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-me.keet.hdrezka-1.6.0-20260723154757-afbe0dd2/HDrezka-1.6.0.ipa",
       "category": "other"
     },
     {
