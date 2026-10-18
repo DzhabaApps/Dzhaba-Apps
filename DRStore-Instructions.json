@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T11:14:51.732831+00:00",
+  "updated_at": "2026-10-18T16:20:56.911239+00:00",
   "instructions": [
     {
       "id": "install-app",
@@ -10,6 +10,17 @@
       "bundle_ids": [],
       "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-install-app-video-b3dae6e3d9ad940cc0ca.mp4",
       "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-install-app-cover-7f7b44ff62f860ba36a4.jpg",
+      "aspect_ratio": 0.5625,
+      "is_test": false
+    },
+    {
+      "id": "create-copy",
+      "title": "Как создать копию приложения",
+      "description": "Повторите шаги из видео на своём iPhone.",
+      "steps": [],
+      "bundle_ids": [],
+      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-create-copy-video-233c06aadab891294a44.mp4",
+      "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-create-copy-cover-2b05923e4f5599e793e9.jpg",
       "aspect_ratio": 0.5625,
       "is_test": false
     }
