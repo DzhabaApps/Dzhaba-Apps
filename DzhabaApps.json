@@ -662,6 +662,30 @@
       "versionDate": "2026-10-14T19:59:08Z",
       "size": 209551943,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.vk.vkclient-8.144.1-530a086a/VK-8.144.1-99c78d9a.ipa"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-app.swiftgram.ios-12.2.1-90be6fcc/icon-app.swiftgram.ios-12.2.1-90be6fcc.png",
+      "localizedDescription": "Swiftgram",
+      "subtitle": "Swiftgram",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "12.2.1",
+          "date": "2026-10-18T20:49:04Z",
+          "size": 72157743,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-app.swiftgram.ios-12.2.1-90be6fcc/Swiftgram-12.2.1-bc12dde2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "other",
+      "version": "12.2.1",
+      "versionDate": "2026-10-18T20:49:04Z",
+      "size": 72157743,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-app.swiftgram.ios-12.2.1-90be6fcc/Swiftgram-12.2.1-bc12dde2.ipa"
     }
   ],
   "news": [],
