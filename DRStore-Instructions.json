@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T16:20:56.911239+00:00",
+  "updated_at": "2026-10-18T23:15:05.229213+00:00",
   "instructions": [
     {
       "id": "install-app",
@@ -21,6 +21,20 @@
       "bundle_ids": [],
       "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-create-copy-video-233c06aadab891294a44.mp4",
       "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-create-copy-cover-2b05923e4f5599e793e9.jpg",
+      "aspect_ratio": 0.5625,
+      "is_test": false
+    },
+    {
+      "id": "whatsapp-linked",
+      "title": "Как подключить WhatsApp Plus",
+      "description": "Подключите аккаунт через «Связанные устройства».",
+      "steps": [],
+      "bundle_ids": [
+        "net.whatsapp.WhatsApp",
+        "net.whatsapp.WhatsAppSMB"
+      ],
+      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-whatsapp-linked-video-4624b34f25eb7dbcc22f.mp4",
+      "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-whatsapp-linked-cover-fb47d5d53cb28409ce60.jpg",
       "aspect_ratio": 0.5625,
       "is_test": false
     }
