@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T11:10:08.082111+00:00",
+  "updated_at": "2026-10-18T11:14:51.732831+00:00",
   "instructions": [
     {
       "id": "install-app",
       "title": "Как установить приложение",
-      "description": "Как скачать приложение из каталога DR Store, подтвердить установку на iPhone и открыть его.",
+      "description": "Повторите шаги из видео на своём iPhone.",
       "steps": [],
       "bundle_ids": [],
       "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-install-app-video-b3dae6e3d9ad940cc0ca.mp4",
