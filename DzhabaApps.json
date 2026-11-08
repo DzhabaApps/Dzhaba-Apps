@@ -3,6 +3,37 @@
   "identifier": "com.dzhaba.apps.repo",
   "apps": [
     {
+      "name": "GTA V",
+      "bundleIdentifier": "com.macport.gtav",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/icon-com.macport.gtav-1.0-11640a80.png",
+      "localizedDescription": "GTA V",
+      "subtitle": "GTA V",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-08T19:37:18Z",
+          "size": 56609997,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/GTA-V-1.0-22d6ce86.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "other",
+      "version": "1.0",
+      "versionDate": "2026-11-08T19:37:18Z",
+      "size": 56609997,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/GTA-V-1.0-22d6ce86.ipa",
+      "additionalFiles": [
+        {
+          "name": "Игровые данные GTAV",
+          "url": "https://cloud.mail.ru/public/wwiE/wcRQQqLe8",
+          "size": 22623740232
+        }
+      ]
+    },
+    {
       "name": "WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "",
@@ -686,37 +717,6 @@
       "versionDate": "2026-10-18T20:49:04Z",
       "size": 72157743,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-app.swiftgram.ios-12.2.1-90be6fcc/Swiftgram-12.2.1-bc12dde2.ipa"
-    },
-    {
-      "name": "GTA V",
-      "bundleIdentifier": "com.macport.gtav",
-      "developerName": "",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/icon-com.macport.gtav-1.0-11640a80.png",
-      "localizedDescription": "GTA V",
-      "subtitle": "GTA V",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-11-08T19:37:18Z",
-          "size": 56609997,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/GTA-V-1.0-22d6ce86.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [],
-      "category": "other",
-      "version": "1.0",
-      "versionDate": "2026-11-08T19:37:18Z",
-      "size": 56609997,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/GTA-V-1.0-22d6ce86.ipa",
-      "additionalFiles": [
-        {
-          "name": "Игровые данные GTAV",
-          "url": "https://cloud.mail.ru/public/wwiE/wcRQQqLe8",
-          "size": 22623740232
-        }
-      ]
     }
   ],
   "news": [],
