@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T23:15:05.229213+00:00",
+  "updated_at": "2026-11-08T20:47:11.667313+00:00",
   "instructions": [
     {
       "id": "install-app",
@@ -37,6 +37,20 @@
       "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-whatsapp-linked-cover-fb47d5d53cb28409ce60.jpg",
       "aspect_ratio": 0.5625,
       "is_test": false
+    },
+    {
+      "id": "gta-v-install",
+      "title": "Как установить GTA V",
+      "description": "Установка приложения и игровых данных GTA V на iPhone.",
+      "steps": [],
+      "bundle_ids": [
+        "com.macport.gtav"
+      ],
+      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-gta-v-install-video-0f81014d5986a30fe2b7.mp4",
+      "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-gta-v-install-cover-42159d37e5b98c51f522.jpg",
+      "aspect_ratio": 0.5625,
+      "is_test": false,
+      "group": "games"
     }
   ]
 }
