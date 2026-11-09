@@ -31,6 +31,11 @@
           "url": "https://cloud.mail.ru/public/wwiE/wcRQQqLe8",
           "size": 22623740232,
           "instructionID": "gta-v-install"
+        },
+        {
+          "name": "Русский язык интерфейса",
+          "url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-com.macport.gtav-1.0-11640a80/launcher_ru.json",
+          "size": 232967
         }
       ]
     },
