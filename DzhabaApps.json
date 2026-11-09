@@ -28,9 +28,10 @@
       "additionalFiles": [
         {
           "name": "Игровые данные GTAV",
-          "url": "https://cloud.mail.ru/public/wwiE/wcRQQqLe8",
-          "size": 22623740232,
-          "instructionID": "gta-v-install"
+          "url": "https://disk.yandex.ru/d/9fOJp-8GwlyyJw",
+          "size": 21055817375,
+          "instructionID": "gta-v-install",
+          "extractArchive": true
         },
         {
           "name": "Русский язык интерфейса",
