@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T19:59:16.459059+00:00",
+  "updated_at": "2026-11-14T20:24:17.407891+00:00",
   "instructions": [
     {
       "id": "install-app",
@@ -51,6 +51,20 @@
       "aspect_ratio": 0.5625,
       "is_test": false,
       "group": "games"
+    },
+    {
+      "id": "gta-v-russian",
+      "title": "Русский интерфейс GTA V",
+      "description": "Повторите шаги из видео на своём iPhone.",
+      "steps": [],
+      "bundle_ids": [
+        "com.macport.gtav"
+      ],
+      "aspect_ratio": 0.5625,
+      "is_test": false,
+      "group": "games",
+      "cover_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-gta-v-russian-cover-26058dd462812bb57d31.jpg",
+      "video_url": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/dr-store-video-instructions/instruction-gta-v-russian-video-9381cf4a7ec0972e82d3.mp4"
     }
   ]
 }
