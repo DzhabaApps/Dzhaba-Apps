@@ -724,6 +724,30 @@
       "versionDate": "2026-10-18T20:49:04Z",
       "size": 72157743,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-app.swiftgram.ios-12.2.1-90be6fcc/Swiftgram-12.2.1-bc12dde2.ipa"
+    },
+    {
+      "name": "Твоё",
+      "bundleIdentifier": "live.tvoe.app",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-live.tvoe.app-2.0.18-3a2fc803/icon-live.tvoe.app-2.0.18-3a2fc803.png",
+      "localizedDescription": "Отключена рекламная вставка с переходом в Telegram. Существующая Pro-функциональность сохранена и проверена на iPhone.",
+      "subtitle": "Твоё",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2.0.18",
+          "date": "2026-11-14T00:06:49Z",
+          "size": 12149640,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-live.tvoe.app-2.0.18-3a2fc803/live.tvoe.app-2.0.18-3a2fc803.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "other",
+      "version": "2.0.18",
+      "versionDate": "2026-11-14T00:06:49Z",
+      "size": 12149640,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-live.tvoe.app-2.0.18-3a2fc803/live.tvoe.app-2.0.18-3a2fc803.ipa"
     }
   ],
   "news": [],
