@@ -44,11 +44,17 @@
       "name": "WhatsApp Plus",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "",
-      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.40.10-e250911e/icon-net.whatsapp.WhatsApp-26.40.10-e250911e.png",
-      "localizedDescription": "Для более безопасного и стабильного использования рекомендуется подключить приложение как связанное устройство. Подробная инструкция по подключению размещена в нашей группе в Telegram.\r\n\r\n— Скрытие статуса «В сети» и времени последнего посещения\r\n— Отключение отчётов о прочтении сообщений\r\n— Скрытие индикаторов набора текста и записи аудио\r\n— Сохранение удалённых собеседником сообщений\r\n— Просмотр и скачивание удалённых статусов\r\n— Анонимный просмотр статусов\r\n— Скачивание фото и видео из статусов\r\n— Отправка сообщений по расписанию\r\n— Настройка автоматических ответов\r\n— Защита отдельных чатов паролем или биометрией\r\n— Отключение отметки «Переслано»\r\n— Расширенные настройки приватности\r\n— Пользовательские темы, цвета и шрифты\r\n— Дополнительные возможности для чатов и медиа",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.44.74-6c84769a/icon-net.whatsapp.WhatsApp-26.44.74-6c84769a.png",
+      "localizedDescription": "WhatsApp Plus для iPhone. Версия 26.44.74 на базе WhatsApp. Общение в личных и групповых чатах, обмен фотографиями, видео и документами. Совместимость: iOS 15.1 и новее.",
       "subtitle": "‎WhatsApp",
       "tintColor": "848ef9",
       "versions": [
+        {
+          "version": "26.44.74",
+          "date": "2026-11-17T14:06:58Z",
+          "size": 174693669,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.44.74-6c84769a/WhatsApp-Plus-26.44.74-48ca251b.ipa"
+        },
         {
           "version": "26.40.10",
           "date": "2026-10-17T17:13:18Z",
@@ -64,10 +70,10 @@
       ],
       "appPermissions": {},
       "screenshotURLs": [],
-      "version": "26.40.10",
-      "versionDate": "2026-10-17T17:13:18Z",
-      "size": 159137803,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.40.10-e250911e/WhatsApp-26.40.10-5d8d15be.ipa",
+      "version": "26.44.74",
+      "versionDate": "2026-11-17T14:06:58Z",
+      "size": 174693669,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-net.whatsapp.whatsapp-26.44.74-6c84769a/WhatsApp-Plus-26.44.74-48ca251b.ipa",
       "category": "social"
     },
     {
