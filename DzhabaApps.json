@@ -754,6 +754,30 @@
       "versionDate": "2026-11-14T00:06:49Z",
       "size": 12149640,
       "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-live.tvoe.app-2.0.18-3a2fc803/live.tvoe.app-2.0.18-3a2fc803.ipa"
+    },
+    {
+      "name": "Happ",
+      "bundleIdentifier": "su.ffg.happ.lite",
+      "developerName": "",
+      "iconURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-su.ffg.happ.lite-5.8.1-bc659d87/icon-su.ffg.happ.lite-5.8.1-bc659d87.png",
+      "localizedDescription": "Happ — приложение для импорта конфигураций и управления VPN-подключениями.",
+      "subtitle": "Happ",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "5.8.1",
+          "date": "2026-11-20T12:02:28Z",
+          "size": 247290144,
+          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-su.ffg.happ.lite-5.8.1-bc659d87/su.ffg.happ.lite-5.8.1-bc659d87.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "category": "other",
+      "version": "5.8.1",
+      "versionDate": "2026-11-20T12:02:28Z",
+      "size": 247290144,
+      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/ipa-su.ffg.happ.lite-5.8.1-bc659d87/su.ffg.happ.lite-5.8.1-bc659d87.ipa"
     }
   ],
   "news": [],
